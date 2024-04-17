@@ -44,5 +44,5 @@ def main(input_file):
             print(f"Text extracted from {link} and saved to {doc_file_name}")
 
 if __name__ == "__main__":
-    input_excel_file = "lifestyleAndHobbies.xlsx"  # Provide the path to your input Excel file
+    input_excel_file = "oyeah.xlsx"  # Provide the path to your input Excel file
     main(input_excel_file)
