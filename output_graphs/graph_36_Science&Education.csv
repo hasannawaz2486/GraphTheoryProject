@@ -1,0 +1,14 @@
+Source,Target,Weight
+big,idea,1
+idea,grow,1
+grow,mind,1
+mind,featur,1
+featur,stori,1
+stori,websit,1
+websit,use,1
+use,cooki,1
+cooki,brows,1
+brows,page,1
+page,agre,1
+agre,term,1
+term,use,1

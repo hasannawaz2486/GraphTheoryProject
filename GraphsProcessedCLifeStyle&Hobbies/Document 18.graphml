@@ -1,0 +1,480 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="document"/>
+<node id="18"/>
+<node id="oct"/>
+<node id="02"/>
+<node id="2023"/>
+<node id="tashia"/>
+<node id="t."/>
+<node id="33min"/>
+<node id="read"/>
+<node id="blog"/>
+<node id="websit"/>
+<node id="page"/>
+<node id="part"/>
+<node id="larger"/>
+<node id="typic"/>
+<node id="featur"/>
+<node id="articl"/>
+<node id="written"/>
+<node id="convers"/>
+<node id="style"/>
+<node id="accompani"/>
+<node id="pictur"/>
+<node id="video"/>
+<node id="gain"/>
+<node id="immens"/>
+<node id="popular"/>
+<node id="due"/>
+<node id="enjoy"/>
+<node id="adapt"/>
+<node id="natur"/>
+<node id="allow"/>
+<node id="self-express"/>
+<node id="social"/>
+<node id="connect"/>
+<node id="addit"/>
+<node id="serv"/>
+<node id="platform"/>
+<node id="enhanc"/>
+<node id="write"/>
+<node id="skill"/>
+<node id="promot"/>
+<node id="busi"/>
+<node id="furthermor"/>
+<node id="profession"/>
+<node id="blogger"/>
+<node id="even"/>
+<node id="make"/>
+<node id="money"/>
+<node id="variou"/>
+<node id="way"/>
+<node id="googl"/>
+<node id="ad"/>
+<node id="amazon"/>
+<node id="affili"/>
+<node id="link"/>
+<node id="success"/>
+<node id="cover"/>
+<node id="topic"/>
+<node id="matter"/>
+<node id="subject"/>
+<node id="think"/>
+<node id="’"/>
+<node id="like"/>
+<node id="alreadi"/>
+<node id="profit"/>
+<node id="dedic"/>
+<node id="none"/>
+<node id="come"/>
+<node id="new"/>
+<node id="find"/>
+<node id="uniqu"/>
+<node id="nich"/>
+<node id="creat"/>
+<node id="content"/>
+<node id="higher"/>
+<node id="chanc"/>
+<node id="surviv"/>
+<node id="competit"/>
+<node id="world"/>
+<node id="prefer"/>
+<node id="passion"/>
+<node id="expert"/>
+<node id="howev"/>
+<node id="worri"/>
+<node id="difficult"/>
+<node id="time"/>
+<node id="pin"/>
+<node id="–"/>
+<node id="help"/>
+<node id="explor"/>
+<node id="11"/>
+<node id="type"/>
+<node id="differ"/>
+<node id="industri"/>
+<node id="includ"/>
+<node id="tech"/>
+<node id="lifestyl"/>
+<node id="beauti"/>
+<node id="fashion"/>
+<node id="health"/>
+<node id="fit"/>
+<node id="educ"/>
+<node id="market"/>
+<node id="financ"/>
+<node id="invest"/>
+<node id="food"/>
+<node id="travel"/>
+<node id="photographi"/>
+<node id="art"/>
+<node id="design"/>
+<node id="five"/>
+<node id="best"/>
+<node id="exampl"/>
+<node id="discuss"/>
+<node id="briefli"/>
+<node id="highlight"/>
+<node id="learn"/>
+<node id="also"/>
+<node id="info"/>
+<node id="build"/>
+<node id="whether"/>
+<node id="cm"/>
+<node id="wordpress"/>
+<node id="use"/>
+<node id="download"/>
+<node id="post"/>
+<node id="templat"/>
+<node id="junki"/>
+<node id="may"/>
+<node id="want"/>
+<node id="start"/>
+<node id="focus"/>
+<node id="technolog"/>
+<node id="usual"/>
+<node id="latest"/>
+<node id="news"/>
+<node id="applic"/>
+<node id="field"/>
+<node id="scienc"/>
+<node id="entertain"/>
+<node id="review"/>
+<node id="newli"/>
+<node id="releas"/>
+<node id="gadget"/>
+<node id="techcrunch"/>
+<node id="provid"/>
+<node id="startup"/>
+<node id="develop"/>
+<node id="silicon"/>
+<node id="valley"/>
+<node id="ventur"/>
+<node id="capit"/>
+<node id="fund"/>
+<node id="target"/>
+<node id="audienc"/>
+<node id="enthusiast"/>
+<node id="especi"/>
+<node id="founder"/>
+<node id="investor"/>
+<node id="worldwid"/>
+<node id="clean"/>
+<node id="layout"/>
+<node id="priorit"/>
+<node id="text"/>
+<node id="readabl"/>
+<node id="simpl"/>
+<node id="white"/>
+<node id="background"/>
+<node id="black"/>
+<node id="headlin"/>
+<node id="recent"/>
+<node id="shown"/>
+<node id="neatli"/>
+<node id="homepag"/>
+<node id="snippet"/>
+<node id="relev"/>
+<node id="add"/>
+<node id="splash"/>
+<node id="color"/>
+<node id="sidebar"/>
+<node id="left"/>
+<node id="side"/>
+<node id="screen"/>
+<node id="easi"/>
+<node id="navig"/>
+<node id="verg"/>
+<node id="examin"/>
+<node id="chang"/>
+<node id="futur"/>
+<node id="opinion"/>
+<node id="piec"/>
+<node id="cultur"/>
+<node id="mainstream"/>
+<node id="vibrant"/>
+<node id="theme"/>
+<node id="bright"/>
+<node id="accent"/>
+<node id="orang"/>
+<node id="magenta"/>
+<edge source="document" target="18"/>
+<edge source="18" target="oct"/>
+<edge source="oct" target="02"/>
+<edge source="02" target="2023"/>
+<edge source="2023" target="tashia"/>
+<edge source="tashia" target="t."/>
+<edge source="t." target="33min"/>
+<edge source="33min" target="read"/>
+<edge source="read" target="blog"/>
+<edge source="blog" target="websit"/>
+<edge source="blog" target="gain"/>
+<edge source="blog" target="variou"/>
+<edge source="blog" target="cover"/>
+<edge source="blog" target="dedic"/>
+<edge source="blog" target="world"/>
+<edge source="blog" target="nich"/>
+<edge source="blog" target="differ"/>
+<edge source="blog" target="exampl"/>
+<edge source="blog" target="also"/>
+<edge source="blog" target="platform"/>
+<edge source="blog" target="post"/>
+<edge source="blog" target="focus"/>
+<edge source="blog" target="usual"/>
+<edge source="blog" target="technolog"/>
+<edge source="blog" target="provid"/>
+<edge source="blog" target="’"/>
+<edge source="blog" target="techcrunch"/>
+<edge source="blog" target="verg"/>
+<edge source="websit" target="page"/>
+<edge source="websit" target="typic"/>
+<edge source="websit" target="’"/>
+<edge source="websit" target="also"/>
+<edge source="websit" target="homepag"/>
+<edge source="page" target="part"/>
+<edge source="part" target="larger"/>
+<edge source="larger" target="websit"/>
+<edge source="typic" target="featur"/>
+<edge source="featur" target="articl"/>
+<edge source="featur" target="latest"/>
+<edge source="featur" target="review"/>
+<edge source="articl" target="written"/>
+<edge source="articl" target="help"/>
+<edge source="articl" target="explor"/>
+<edge source="articl" target="shown"/>
+<edge source="written" target="convers"/>
+<edge source="convers" target="style"/>
+<edge source="style" target="accompani"/>
+<edge source="accompani" target="pictur"/>
+<edge source="accompani" target="snippet"/>
+<edge source="pictur" target="video"/>
+<edge source="pictur" target="add"/>
+<edge source="video" target="blog"/>
+<edge source="gain" target="immens"/>
+<edge source="immens" target="popular"/>
+<edge source="popular" target="due"/>
+<edge source="popular" target="blog"/>
+<edge source="due" target="enjoy"/>
+<edge source="enjoy" target="adapt"/>
+<edge source="adapt" target="natur"/>
+<edge source="natur" target="allow"/>
+<edge source="allow" target="self-express"/>
+<edge source="self-express" target="social"/>
+<edge source="social" target="connect"/>
+<edge source="connect" target="addit"/>
+<edge source="addit" target="serv"/>
+<edge source="serv" target="platform"/>
+<edge source="platform" target="enhanc"/>
+<edge source="platform" target="download"/>
+<edge source="enhanc" target="write"/>
+<edge source="write" target="skill"/>
+<edge source="skill" target="promot"/>
+<edge source="promot" target="busi"/>
+<edge source="busi" target="furthermor"/>
+<edge source="busi" target="market"/>
+<edge source="busi" target="technolog"/>
+<edge source="busi" target="enthusiast"/>
+<edge source="furthermor" target="profession"/>
+<edge source="profession" target="blogger"/>
+<edge source="blogger" target="even"/>
+<edge source="blogger" target="find"/>
+<edge source="even" target="make"/>
+<edge source="make" target="money"/>
+<edge source="money" target="blog"/>
+<edge source="variou" target="way"/>
+<edge source="variou" target="field"/>
+<edge source="way" target="googl"/>
+<edge source="googl" target="ad"/>
+<edge source="ad" target="amazon"/>
+<edge source="amazon" target="affili"/>
+<edge source="affili" target="link"/>
+<edge source="link" target="success"/>
+<edge source="success" target="blog"/>
+<edge source="cover" target="topic"/>
+<edge source="topic" target="matter"/>
+<edge source="topic" target="–"/>
+<edge source="matter" target="subject"/>
+<edge source="subject" target="think"/>
+<edge source="think" target="’"/>
+<edge source="’" target="like"/>
+<edge source="’" target="worri"/>
+<edge source="’" target="target"/>
+<edge source="’" target="clean"/>
+<edge source="’" target="websit"/>
+<edge source="like" target="alreadi"/>
+<edge source="like" target="wordpress"/>
+<edge source="alreadi" target="profit"/>
+<edge source="profit" target="blog"/>
+<edge source="dedic" target="none"/>
+<edge source="none" target="come"/>
+<edge source="come" target="new"/>
+<edge source="new" target="blogger"/>
+<edge source="find" target="uniqu"/>
+<edge source="uniqu" target="nich"/>
+<edge source="nich" target="creat"/>
+<edge source="nich" target="howev"/>
+<edge source="nich" target="industri"/>
+<edge source="creat" target="content"/>
+<edge source="content" target="higher"/>
+<edge source="higher" target="chanc"/>
+<edge source="chanc" target="surviv"/>
+<edge source="surviv" target="competit"/>
+<edge source="competit" target="blog"/>
+<edge source="world" target="prefer"/>
+<edge source="prefer" target="passion"/>
+<edge source="passion" target="expert"/>
+<edge source="expert" target="blog"/>
+<edge source="howev" target="’"/>
+<edge source="worri" target="difficult"/>
+<edge source="difficult" target="time"/>
+<edge source="time" target="pin"/>
+<edge source="pin" target="topic"/>
+<edge source="–" target="articl"/>
+<edge source="–" target="black"/>
+<edge source="help" target="articl"/>
+<edge source="help" target="sidebar"/>
+<edge source="explor" target="11"/>
+<edge source="11" target="type"/>
+<edge source="type" target="blog"/>
+<edge source="type" target="discuss"/>
+<edge source="differ" target="nich"/>
+<edge source="industri" target="includ"/>
+<edge source="includ" target="tech"/>
+<edge source="includ" target="five"/>
+<edge source="includ" target="info"/>
+<edge source="tech" target="lifestyl"/>
+<edge source="tech" target="junki"/>
+<edge source="tech" target="blog"/>
+<edge source="lifestyl" target="beauti"/>
+<edge source="beauti" target="fashion"/>
+<edge source="fashion" target="health"/>
+<edge source="health" target="fit"/>
+<edge source="fit" target="educ"/>
+<edge source="educ" target="busi"/>
+<edge source="market" target="financ"/>
+<edge source="financ" target="invest"/>
+<edge source="invest" target="food"/>
+<edge source="food" target="travel"/>
+<edge source="travel" target="photographi"/>
+<edge source="photographi" target="art"/>
+<edge source="art" target="design"/>
+<edge source="art" target="cultur"/>
+<edge source="design" target="includ"/>
+<edge source="five" target="best"/>
+<edge source="best" target="blog"/>
+<edge source="exampl" target="type"/>
+<edge source="exampl" target="briefli"/>
+<edge source="exampl" target="whether"/>
+<edge source="discuss" target="blog"/>
+<edge source="briefli" target="highlight"/>
+<edge source="highlight" target="learn"/>
+<edge source="learn" target="blog"/>
+<edge source="also" target="includ"/>
+<edge source="also" target="featur"/>
+<edge source="also" target="provid"/>
+<edge source="info" target="build"/>
+<edge source="build" target="exampl"/>
+<edge source="whether" target="cm"/>
+<edge source="cm" target="like"/>
+<edge source="wordpress" target="use"/>
+<edge source="use" target="blog"/>
+<edge source="download" target="blog"/>
+<edge source="post" target="templat"/>
+<edge source="post" target="relev"/>
+<edge source="templat" target="tech"/>
+<edge source="junki" target="may"/>
+<edge source="may" target="want"/>
+<edge source="want" target="start"/>
+<edge source="start" target="blog"/>
+<edge source="focus" target="technolog"/>
+<edge source="focus" target="examin"/>
+<edge source="technolog" target="tech"/>
+<edge source="technolog" target="applic"/>
+<edge source="technolog" target="blog"/>
+<edge source="technolog" target="techcrunch"/>
+<edge source="technolog" target="startup"/>
+<edge source="technolog" target="busi"/>
+<edge source="technolog" target="chang"/>
+<edge source="technolog" target="develop"/>
+<edge source="usual" target="featur"/>
+<edge source="latest" target="news"/>
+<edge source="latest" target="develop"/>
+<edge source="latest" target="technolog"/>
+<edge source="news" target="technolog"/>
+<edge source="news" target="latest"/>
+<edge source="news" target="opinion"/>
+<edge source="applic" target="variou"/>
+<edge source="field" target="scienc"/>
+<edge source="scienc" target="entertain"/>
+<edge source="scienc" target="mainstream"/>
+<edge source="entertain" target="busi"/>
+<edge source="review" target="newli"/>
+<edge source="newli" target="releas"/>
+<edge source="releas" target="gadget"/>
+<edge source="gadget" target="popular"/>
+<edge source="techcrunch" target="blog"/>
+<edge source="techcrunch" target="websit"/>
+<edge source="provid" target="technolog"/>
+<edge source="provid" target="help"/>
+<edge source="provid" target="news"/>
+<edge source="startup" target="news"/>
+<edge source="startup" target="founder"/>
+<edge source="develop" target="silicon"/>
+<edge source="develop" target="art"/>
+<edge source="silicon" target="valley"/>
+<edge source="valley" target="ventur"/>
+<edge source="ventur" target="capit"/>
+<edge source="capit" target="fund"/>
+<edge source="fund" target="blog"/>
+<edge source="target" target="audienc"/>
+<edge source="audienc" target="technolog"/>
+<edge source="audienc" target="learn"/>
+<edge source="enthusiast" target="especi"/>
+<edge source="especi" target="startup"/>
+<edge source="founder" target="investor"/>
+<edge source="investor" target="worldwid"/>
+<edge source="worldwid" target="learn"/>
+<edge source="clean" target="layout"/>
+<edge source="layout" target="priorit"/>
+<edge source="priorit" target="text"/>
+<edge source="text" target="readabl"/>
+<edge source="text" target="headlin"/>
+<edge source="readabl" target="simpl"/>
+<edge source="simpl" target="white"/>
+<edge source="white" target="background"/>
+<edge source="white" target="theme"/>
+<edge source="background" target="black"/>
+<edge source="black" target="text"/>
+<edge source="black" target="white"/>
+<edge source="headlin" target="recent"/>
+<edge source="recent" target="articl"/>
+<edge source="shown" target="neatli"/>
+<edge source="neatli" target="homepag"/>
+<edge source="homepag" target="accompani"/>
+<edge source="homepag" target="vibrant"/>
+<edge source="snippet" target="blog"/>
+<edge source="relev" target="pictur"/>
+<edge source="add" target="splash"/>
+<edge source="splash" target="color"/>
+<edge source="color" target="techcrunch"/>
+<edge source="sidebar" target="left"/>
+<edge source="left" target="side"/>
+<edge source="side" target="screen"/>
+<edge source="screen" target="easi"/>
+<edge source="easi" target="navig"/>
+<edge source="navig" target="verg"/>
+<edge source="verg" target="blog"/>
+<edge source="verg" target="’"/>
+<edge source="examin" target="technolog"/>
+<edge source="chang" target="futur"/>
+<edge source="futur" target="blog"/>
+<edge source="opinion" target="piec"/>
+<edge source="piec" target="latest"/>
+<edge source="cultur" target="scienc"/>
+<edge source="mainstream" target="audienc"/>
+<edge source="vibrant" target="–"/>
+<edge source="theme" target="bright"/>
+<edge source="bright" target="accent"/>
+<edge source="accent" target="orang"/>
+<edge source="orang" target="magenta"/>
+</graph></graphml>

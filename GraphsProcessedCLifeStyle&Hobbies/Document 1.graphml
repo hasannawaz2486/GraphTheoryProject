@@ -1,0 +1,399 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="document"/>
+<node id="1"/>
+<node id="blog"/>
+<node id="coach"/>
+<node id="start"/>
+<node id="get"/>
+<node id="access"/>
+<node id="free"/>
+<node id="launch"/>
+<node id="cours"/>
+<node id="toolkit"/>
+<node id="’"/>
+<node id="new"/>
+<node id="lifestyl"/>
+<node id="post"/>
+<node id="congratul"/>
+<node id="stuck"/>
+<node id="ideas…"/>
+<node id="happen"/>
+<node id="us"/>
+<node id="come"/>
+<node id="100"/>
+<node id="idea"/>
+<node id="2024"/>
+<node id="keep"/>
+<node id="creat"/>
+<node id="fresh"/>
+<node id="content"/>
+<node id="week"/>
+<node id="topic"/>
+<node id="fairli"/>
+<node id="popular"/>
+<node id="pinterest"/>
+<node id="easili"/>
+<node id="adapt"/>
+<node id="make"/>
+<node id="term"/>
+<node id="perspect"/>
+<node id="relev"/>
+<node id="anecdot"/>
+<node id="also"/>
+<node id="great"/>
+<node id="question"/>
+<node id="reader"/>
+<node id="may"/>
+<node id="help"/>
+<node id="answer"/>
+<node id="grab"/>
+<node id="notebook"/>
+<node id="pen"/>
+<node id="cup"/>
+<node id="coffe"/>
+<node id="tea"/>
+<node id="let"/>
+<node id="delv"/>
+<node id="love"/>
+<node id="disclosur"/>
+<node id="contain"/>
+<node id="affili"/>
+<node id="link"/>
+<node id="mean"/>
+<node id="click"/>
+<node id="product"/>
+<node id="servic"/>
+<node id="decid"/>
+<node id="purchas"/>
+<node id="receiv"/>
+<node id="commiss"/>
+<node id="extra"/>
+<node id="cost"/>
+<node id="recommend"/>
+<node id="base"/>
+<node id="posit"/>
+<node id="experi"/>
+<node id="inform"/>
+<node id="pleas"/>
+<node id="read"/>
+<node id="disclaim"/>
+<node id="bookmark"/>
+<node id="develop"/>
+<node id="list"/>
+<node id="look"/>
+<node id="thing"/>
+<node id="cover"/>
+<node id="everi"/>
+<node id="nich"/>
+<node id="genr"/>
+<node id="howev"/>
+<node id="give"/>
+<node id="good"/>
+<node id="starter"/>
+<node id="rememb"/>
+<node id="alway"/>
+<node id="modifi"/>
+<node id="basic"/>
+<node id="work"/>
+<node id="specif"/>
+<node id="jump"/>
+<node id="research"/>
+<node id="brainstorm"/>
+<node id="gener"/>
+<node id="found"/>
+<node id="lifestyle-focus"/>
+<node id="special"/>
+<node id="requir"/>
+<node id="fashionista"/>
+<node id="brief"/>
+<node id="smart"/>
+<node id="fashion"/>
+<node id="favourit"/>
+<node id="recip"/>
+<node id="food"/>
+<node id="tip"/>
+<node id="share"/>
+<node id="world"/>
+<node id="relat"/>
+<node id="115+"/>
+<node id="yummi"/>
+<node id="well"/>
+<node id="person"/>
+<node id="self-car"/>
+<node id="one"/>
+<node id="within"/>
+<node id="categori"/>
+<node id="add"/>
+<node id="see"/>
+<node id="traffic"/>
+<node id="site"/>
+<node id="50+"/>
+<node id="midlif"/>
+<node id="blogger"/>
+<node id="gear"/>
+<node id="toward"/>
+<node id="home"/>
+<node id="trendi"/>
+<node id="opportun"/>
+<node id="show"/>
+<node id="diy"/>
+<node id="design"/>
+<node id="skill"/>
+<node id="100+"/>
+<node id="decor"/>
+<node id="hashtag"/>
+<node id="instagram"/>
+<node id="travel"/>
+<node id="life"/>
+<node id="fun"/>
+<node id="peopl"/>
+<node id="interest"/>
+<node id="place"/>
+<node id="dream"/>
+<node id="visit"/>
+<node id="inspir"/>
+<node id="60+"/>
+<node id="done"/>
+<node id="heavi"/>
+<node id="lift"/>
+<node id="best"/>
+<node id="continu"/>
+<edge source="document" target="1"/>
+<edge source="1" target="blog"/>
+<edge source="blog" target="coach"/>
+<edge source="blog" target="get"/>
+<edge source="blog" target="cours"/>
+<edge source="blog" target="post"/>
+<edge source="blog" target="topic"/>
+<edge source="blog" target="’"/>
+<edge source="blog" target="special"/>
+<edge source="blog" target="favourit"/>
+<edge source="blog" target="categori"/>
+<edge source="blog" target="help"/>
+<edge source="coach" target="start"/>
+<edge source="start" target="blog"/>
+<edge source="start" target="popular"/>
+<edge source="get" target="access"/>
+<edge source="get" target="reader"/>
+<edge source="get" target="start"/>
+<edge source="access" target="free"/>
+<edge source="free" target="launch"/>
+<edge source="launch" target="start"/>
+<edge source="launch" target="new"/>
+<edge source="cours" target="toolkit"/>
+<edge source="toolkit" target="’"/>
+<edge source="’" target="launch"/>
+<edge source="’" target="stuck"/>
+<edge source="’" target="come"/>
+<edge source="’" target="also"/>
+<edge source="’" target="delv"/>
+<edge source="’" target="cover"/>
+<edge source="’" target="jump"/>
+<edge source="’" target="research"/>
+<edge source="’" target="see"/>
+<edge source="’" target="done"/>
+<edge source="new" target="lifestyl"/>
+<edge source="new" target="content"/>
+<edge source="lifestyl" target="blog"/>
+<edge source="lifestyl" target="genr"/>
+<edge source="lifestyl" target="topic"/>
+<edge source="post" target="congratul"/>
+<edge source="post" target="ideas…"/>
+<edge source="post" target="idea"/>
+<edge source="post" target="topic"/>
+<edge source="post" target="contain"/>
+<edge source="post" target="pinterest"/>
+<edge source="congratul" target="’"/>
+<edge source="stuck" target="blog"/>
+<edge source="ideas…" target="happen"/>
+<edge source="happen" target="us"/>
+<edge source="us" target="’"/>
+<edge source="come" target="100"/>
+<edge source="come" target="list"/>
+<edge source="100" target="lifestyl"/>
+<edge source="idea" target="2024"/>
+<edge source="idea" target="get"/>
+<edge source="idea" target="look"/>
+<edge source="idea" target="work"/>
+<edge source="idea" target="lifestyl"/>
+<edge source="idea" target="reader"/>
+<edge source="idea" target="gener"/>
+<edge source="idea" target="midlif"/>
+<edge source="idea" target="great"/>
+<edge source="idea" target="relat"/>
+<edge source="2024" target="keep"/>
+<edge source="keep" target="creat"/>
+<edge source="creat" target="fresh"/>
+<edge source="fresh" target="new"/>
+<edge source="fresh" target="idea"/>
+<edge source="content" target="week"/>
+<edge source="content" target="disclosur"/>
+<edge source="week" target="week"/>
+<edge source="week" target="lifestyl"/>
+<edge source="topic" target="fairli"/>
+<edge source="topic" target="question"/>
+<edge source="topic" target="found"/>
+<edge source="topic" target="within"/>
+<edge source="topic" target="’"/>
+<edge source="topic" target="gear"/>
+<edge source="topic" target="inspir"/>
+<edge source="topic" target="lifestyl"/>
+<edge source="fairli" target="popular"/>
+<edge source="popular" target="pinterest"/>
+<edge source="popular" target="blog"/>
+<edge source="popular" target="trendi"/>
+<edge source="pinterest" target="easili"/>
+<edge source="pinterest" target="develop"/>
+<edge source="easili" target="adapt"/>
+<edge source="adapt" target="make"/>
+<edge source="make" target="term"/>
+<edge source="term" target="perspect"/>
+<edge source="perspect" target="relev"/>
+<edge source="relev" target="anecdot"/>
+<edge source="anecdot" target="’"/>
+<edge source="also" target="great"/>
+<edge source="great" target="blog"/>
+<edge source="great" target="opportun"/>
+<edge source="question" target="reader"/>
+<edge source="reader" target="may"/>
+<edge source="reader" target="love"/>
+<edge source="reader" target="’"/>
+<edge source="may" target="help"/>
+<edge source="may" target="receiv"/>
+<edge source="help" target="answer"/>
+<edge source="help" target="continu"/>
+<edge source="answer" target="grab"/>
+<edge source="grab" target="notebook"/>
+<edge source="notebook" target="pen"/>
+<edge source="pen" target="cup"/>
+<edge source="cup" target="coffe"/>
+<edge source="coffe" target="tea"/>
+<edge source="tea" target="let"/>
+<edge source="let" target="’"/>
+<edge source="delv" target="blog"/>
+<edge source="love" target="content"/>
+<edge source="love" target="lifestyl"/>
+<edge source="disclosur" target="post"/>
+<edge source="contain" target="affili"/>
+<edge source="affili" target="link"/>
+<edge source="link" target="mean"/>
+<edge source="mean" target="click"/>
+<edge source="click" target="product"/>
+<edge source="product" target="servic"/>
+<edge source="servic" target="decid"/>
+<edge source="servic" target="base"/>
+<edge source="decid" target="purchas"/>
+<edge source="purchas" target="may"/>
+<edge source="receiv" target="commiss"/>
+<edge source="commiss" target="extra"/>
+<edge source="extra" target="cost"/>
+<edge source="cost" target="recommend"/>
+<edge source="recommend" target="product"/>
+<edge source="base" target="posit"/>
+<edge source="posit" target="experi"/>
+<edge source="experi" target="inform"/>
+<edge source="inform" target="pleas"/>
+<edge source="pleas" target="read"/>
+<edge source="read" target="disclaim"/>
+<edge source="read" target="place"/>
+<edge source="disclaim" target="bookmark"/>
+<edge source="bookmark" target="post"/>
+<edge source="develop" target="list"/>
+<edge source="develop" target="self-car"/>
+<edge source="list" target="lifestyl"/>
+<edge source="list" target="’"/>
+<edge source="list" target="fashion"/>
+<edge source="list" target="best"/>
+<edge source="look" target="thing"/>
+<edge source="thing" target="list"/>
+<edge source="cover" target="everi"/>
+<edge source="everi" target="nich"/>
+<edge source="nich" target="lifestyl"/>
+<edge source="nich" target="let"/>
+<edge source="nich" target="requir"/>
+<edge source="genr" target="howev"/>
+<edge source="howev" target="give"/>
+<edge source="give" target="good"/>
+<edge source="good" target="starter"/>
+<edge source="starter" target="rememb"/>
+<edge source="rememb" target="alway"/>
+<edge source="alway" target="modifi"/>
+<edge source="alway" target="interest"/>
+<edge source="modifi" target="basic"/>
+<edge source="basic" target="idea"/>
+<edge source="work" target="specif"/>
+<edge source="specif" target="nich"/>
+<edge source="specif" target="fashionista"/>
+<edge source="jump" target="blog"/>
+<edge source="research" target="brainstorm"/>
+<edge source="brainstorm" target="gener"/>
+<edge source="gener" target="lifestyl"/>
+<edge source="gener" target="well"/>
+<edge source="found" target="lifestyle-focus"/>
+<edge source="lifestyle-focus" target="blog"/>
+<edge source="special" target="nich"/>
+<edge source="requir" target="specif"/>
+<edge source="fashionista" target="brief"/>
+<edge source="brief" target="smart"/>
+<edge source="smart" target="list"/>
+<edge source="fashion" target="blog"/>
+<edge source="favourit" target="recip"/>
+<edge source="recip" target="food"/>
+<edge source="food" target="tip"/>
+<edge source="food" target="blog"/>
+<edge source="tip" target="share"/>
+<edge source="share" target="world"/>
+<edge source="world" target="relat"/>
+<edge source="relat" target="115+"/>
+<edge source="relat" target="50+"/>
+<edge source="relat" target="100+"/>
+<edge source="relat" target="60+"/>
+<edge source="115+" target="yummi"/>
+<edge source="yummi" target="food"/>
+<edge source="well" target="person"/>
+<edge source="person" target="develop"/>
+<edge source="self-car" target="one"/>
+<edge source="one" target="popular"/>
+<edge source="within" target="lifestyl"/>
+<edge source="categori" target="add"/>
+<edge source="add" target="post"/>
+<edge source="see" target="traffic"/>
+<edge source="traffic" target="site"/>
+<edge source="site" target="relat"/>
+<edge source="50+" target="lifestyl"/>
+<edge source="midlif" target="blogger"/>
+<edge source="blogger" target="lifestyl"/>
+<edge source="gear" target="toward"/>
+<edge source="toward" target="home"/>
+<edge source="home" target="popular"/>
+<edge source="home" target="decor"/>
+<edge source="home" target="diy"/>
+<edge source="trendi" target="blog"/>
+<edge source="opportun" target="show"/>
+<edge source="show" target="diy"/>
+<edge source="diy" target="design"/>
+<edge source="diy" target="hashtag"/>
+<edge source="design" target="skill"/>
+<edge source="skill" target="relat"/>
+<edge source="100+" target="home"/>
+<edge source="decor" target="home"/>
+<edge source="hashtag" target="instagram"/>
+<edge source="instagram" target="travel"/>
+<edge source="travel" target="life"/>
+<edge source="travel" target="blog"/>
+<edge source="life" target="fun"/>
+<edge source="fun" target="peopl"/>
+<edge source="peopl" target="alway"/>
+<edge source="interest" target="read"/>
+<edge source="place" target="dream"/>
+<edge source="dream" target="visit"/>
+<edge source="visit" target="travel"/>
+<edge source="inspir" target="fresh"/>
+<edge source="inspir" target="reader"/>
+<edge source="60+" target="travel"/>
+<edge source="done" target="heavi"/>
+<edge source="heavi" target="lift"/>
+<edge source="lift" target="come"/>
+<edge source="best" target="blog"/>
+<edge source="continu" target="blog"/>
+</graph></graphml>

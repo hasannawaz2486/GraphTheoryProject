@@ -1,0 +1,371 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="document"/>
+<node id="7"/>
+<node id="today"/>
+<node id="share"/>
+<node id="rebecca"/>
+<node id="temsen"/>
+<node id="’"/>
+<node id="stori"/>
+<node id="writer"/>
+<node id="entrepreneur"/>
+<node id="wife"/>
+<node id="mother"/>
+<node id="two"/>
+<node id="passion"/>
+<node id="help"/>
+<node id="peopl"/>
+<node id="reach"/>
+<node id="potenti"/>
+<node id="settl"/>
+<node id="norm"/>
+<node id="explain"/>
+<node id="hobbi"/>
+<node id="becom"/>
+<node id="way"/>
+<node id="life"/>
+<node id="tell"/>
+<node id="much"/>
+<node id="grow"/>
+<node id="strong"/>
+<node id="energi"/>
+<node id="truli"/>
+<node id="dedic"/>
+<node id="person"/>
+<node id="‘"/>
+<node id="caus"/>
+<node id="purpos"/>
+<node id="also"/>
+<node id="call"/>
+<node id="happi"/>
+<node id="well"/>
+<node id="worth"/>
+<node id="chase"/>
+<node id="pursuit"/>
+<node id="happiness…"/>
+<node id="acknowledg"/>
+<node id="earli"/>
+<node id="age"/>
+<node id="enjoy"/>
+<node id="encourag"/>
+<node id="thing"/>
+<node id="develop"/>
+<node id="give"/>
+<node id="opinion"/>
+<node id="empow"/>
+<node id="resolv"/>
+<node id="issu"/>
+<node id="tap"/>
+<node id="amaz"/>
+<node id="resourc"/>
+<node id="avail"/>
+<node id="within"/>
+<node id="–"/>
+<node id="case"/>
+<node id="open"/>
+<node id="new"/>
+<node id="experi"/>
+<node id="opportun"/>
+<node id="will"/>
+<node id="learn"/>
+<node id="shift"/>
+<node id="think"/>
+<node id="noth"/>
+<node id="like"/>
+<node id="internet"/>
+<node id="find"/>
+<node id="self-help"/>
+<node id="one"/>
+<node id="day"/>
+<node id="flash"/>
+<node id="inspir"/>
+<node id="decid"/>
+<node id="love"/>
+<node id="combin"/>
+<node id="willing"/>
+<node id="other"/>
+<node id="wealth"/>
+<node id="differ"/>
+<node id="onlin"/>
+<node id="start"/>
+<node id="websit"/>
+<node id="blog"/>
+<node id="five"/>
+<node id="month"/>
+<node id="ago"/>
+<node id="alongsid"/>
+<node id="job"/>
+<node id="market"/>
+<node id="work"/>
+<node id="35"/>
+<node id="hour"/>
+<node id="week"/>
+<node id="free"/>
+<node id="time"/>
+<node id="usual"/>
+<node id="four"/>
+<node id="weekend"/>
+<node id="read"/>
+<node id="plenti"/>
+<node id="idea"/>
+<node id="wish"/>
+<node id="could"/>
+<node id="spend"/>
+<node id="took"/>
+<node id="challeng"/>
+<node id="creat"/>
+<node id="gift"/>
+<node id="keep"/>
+<node id="build"/>
+<node id="felt"/>
+<node id="realli"/>
+<node id="daunt"/>
+<node id="first"/>
+<node id="howev"/>
+<node id="determin"/>
+<node id="practic"/>
+<node id="preach"/>
+<node id="teach"/>
+<node id="use"/>
+<node id="everi"/>
+<node id="site"/>
+<node id="traffic"/>
+<node id="began"/>
+<node id="come"/>
+<node id="connect"/>
+<node id="world"/>
+<node id="enabl"/>
+<node id="set"/>
+<node id="ever"/>
+<node id="engag"/>
+<node id="process"/>
+<node id="fact"/>
+<node id="visit"/>
+<node id="feel"/>
+<node id="lost"/>
+<node id="alon"/>
+<node id="need"/>
+<node id="guidanc"/>
+<node id="click"/>
+<node id="support"/>
+<node id="anyon"/>
+<node id="advic"/>
+<node id="imag"/>
+<node id="credit"/>
+<node id="daili"/>
+<node id="cup"/>
+<node id="bloom"/>
+<node id="leav"/>
+<node id="legaci"/>
+<edge source="document" target="7"/>
+<edge source="7" target="today"/>
+<edge source="today" target="share"/>
+<edge source="share" target="rebecca"/>
+<edge source="rebecca" target="temsen"/>
+<edge source="rebecca" target="writer"/>
+<edge source="temsen" target="’"/>
+<edge source="’" target="stori"/>
+<edge source="’" target="grow"/>
+<edge source="’" target="‘"/>
+<edge source="’" target="also"/>
+<edge source="’" target="empow"/>
+<edge source="’" target="case"/>
+<edge source="’" target="ever"/>
+<edge source="’" target="leav"/>
+<edge source="stori" target="rebecca"/>
+<edge source="stori" target="pursuit"/>
+<edge source="writer" target="entrepreneur"/>
+<edge source="entrepreneur" target="wife"/>
+<edge source="wife" target="mother"/>
+<edge source="mother" target="two"/>
+<edge source="two" target="passion"/>
+<edge source="passion" target="help"/>
+<edge source="passion" target="earli"/>
+<edge source="help" target="peopl"/>
+<edge source="help" target="person"/>
+<edge source="help" target="other"/>
+<edge source="help" target="support"/>
+<edge source="peopl" target="reach"/>
+<edge source="peopl" target="encourag"/>
+<edge source="peopl" target="give"/>
+<edge source="peopl" target="resolv"/>
+<edge source="peopl" target="world"/>
+<edge source="peopl" target="process"/>
+<edge source="peopl" target="visit"/>
+<edge source="reach" target="potenti"/>
+<edge source="potenti" target="settl"/>
+<edge source="settl" target="norm"/>
+<edge source="norm" target="explain"/>
+<edge source="explain" target="hobbi"/>
+<edge source="hobbi" target="becom"/>
+<edge source="becom" target="way"/>
+<edge source="becom" target="truli"/>
+<edge source="way" target="life"/>
+<edge source="life" target="tell"/>
+<edge source="life" target="guidanc"/>
+<edge source="tell" target="much"/>
+<edge source="tell" target="peopl"/>
+<edge source="much" target="’"/>
+<edge source="grow" target="strong"/>
+<edge source="grow" target="shift"/>
+<edge source="strong" target="energi"/>
+<edge source="energi" target="becom"/>
+<edge source="truli" target="dedic"/>
+<edge source="dedic" target="person"/>
+<edge source="person" target="‘"/>
+<edge source="person" target="develop"/>
+<edge source="‘" target="caus"/>
+<edge source="‘" target="purpos"/>
+<edge source="caus" target="’"/>
+<edge source="purpos" target="’"/>
+<edge source="also" target="call"/>
+<edge source="also" target="read"/>
+<edge source="call" target="happi"/>
+<edge source="happi" target="well"/>
+<edge source="well" target="worth"/>
+<edge source="worth" target="chase"/>
+<edge source="chase" target="stori"/>
+<edge source="pursuit" target="happiness…"/>
+<edge source="happiness…" target="acknowledg"/>
+<edge source="acknowledg" target="passion"/>
+<edge source="earli" target="age"/>
+<edge source="age" target="enjoy"/>
+<edge source="enjoy" target="peopl"/>
+<edge source="encourag" target="thing"/>
+<edge source="thing" target="help"/>
+<edge source="thing" target="’"/>
+<edge source="develop" target="tell"/>
+<edge source="develop" target="websit"/>
+<edge source="develop" target="advic"/>
+<edge source="give" target="opinion"/>
+<edge source="give" target="plenti"/>
+<edge source="give" target="build"/>
+<edge source="opinion" target="’"/>
+<edge source="empow" target="peopl"/>
+<edge source="resolv" target="issu"/>
+<edge source="issu" target="tap"/>
+<edge source="tap" target="amaz"/>
+<edge source="amaz" target="resourc"/>
+<edge source="amaz" target="websit"/>
+<edge source="resourc" target="avail"/>
+<edge source="resourc" target="one"/>
+<edge source="resourc" target="onlin"/>
+<edge source="avail" target="within"/>
+<edge source="avail" target="onlin"/>
+<edge source="within" target="–"/>
+<edge source="–" target="’"/>
+<edge source="–" target="amaz"/>
+<edge source="case" target="open"/>
+<edge source="open" target="new"/>
+<edge source="new" target="experi"/>
+<edge source="experi" target="opportun"/>
+<edge source="opportun" target="will"/>
+<edge source="will" target="learn"/>
+<edge source="learn" target="grow"/>
+<edge source="learn" target="engag"/>
+<edge source="shift" target="think"/>
+<edge source="think" target="noth"/>
+<edge source="noth" target="like"/>
+<edge source="like" target="internet"/>
+<edge source="internet" target="find"/>
+<edge source="find" target="self-help"/>
+<edge source="self-help" target="resourc"/>
+<edge source="self-help" target="wish"/>
+<edge source="one" target="day"/>
+<edge source="one" target="click"/>
+<edge source="day" target="flash"/>
+<edge source="flash" target="inspir"/>
+<edge source="inspir" target="decid"/>
+<edge source="decid" target="love"/>
+<edge source="love" target="combin"/>
+<edge source="love" target="self-help"/>
+<edge source="love" target="fact"/>
+<edge source="combin" target="willing"/>
+<edge source="willing" target="help"/>
+<edge source="other" target="wealth"/>
+<edge source="wealth" target="differ"/>
+<edge source="differ" target="resourc"/>
+<edge source="onlin" target="start"/>
+<edge source="onlin" target="site"/>
+<edge source="start" target="person"/>
+<edge source="start" target="blog"/>
+<edge source="start" target="connect"/>
+<edge source="websit" target="start"/>
+<edge source="websit" target="free"/>
+<edge source="websit" target="challeng"/>
+<edge source="websit" target="felt"/>
+<edge source="websit" target="enabl"/>
+<edge source="blog" target="five"/>
+<edge source="five" target="month"/>
+<edge source="five" target="hour"/>
+<edge source="month" target="ago"/>
+<edge source="ago" target="alongsid"/>
+<edge source="alongsid" target="job"/>
+<edge source="job" target="market"/>
+<edge source="market" target="work"/>
+<edge source="work" target="35"/>
+<edge source="work" target="websit"/>
+<edge source="35" target="hour"/>
+<edge source="hour" target="week"/>
+<edge source="hour" target="weekend"/>
+<edge source="week" target="work"/>
+<edge source="week" target="give"/>
+<edge source="free" target="time"/>
+<edge source="time" target="usual"/>
+<edge source="time" target="took"/>
+<edge source="usual" target="four"/>
+<edge source="four" target="five"/>
+<edge source="weekend" target="also"/>
+<edge source="read" target="week"/>
+<edge source="plenti" target="idea"/>
+<edge source="idea" target="love"/>
+<edge source="wish" target="could"/>
+<edge source="could" target="spend"/>
+<edge source="spend" target="time"/>
+<edge source="took" target="websit"/>
+<edge source="challeng" target="creat"/>
+<edge source="creat" target="gift"/>
+<edge source="gift" target="keep"/>
+<edge source="keep" target="give"/>
+<edge source="build" target="websit"/>
+<edge source="felt" target="realli"/>
+<edge source="realli" target="daunt"/>
+<edge source="daunt" target="first"/>
+<edge source="first" target="howev"/>
+<edge source="howev" target="determin"/>
+<edge source="determin" target="practic"/>
+<edge source="practic" target="preach"/>
+<edge source="preach" target="teach"/>
+<edge source="teach" target="use"/>
+<edge source="use" target="everi"/>
+<edge source="everi" target="resourc"/>
+<edge source="site" target="traffic"/>
+<edge source="traffic" target="began"/>
+<edge source="began" target="come"/>
+<edge source="come" target="start"/>
+<edge source="connect" target="peopl"/>
+<edge source="world" target="–"/>
+<edge source="enabl" target="set"/>
+<edge source="set" target="thing"/>
+<edge source="ever" target="learn"/>
+<edge source="engag" target="peopl"/>
+<edge source="process" target="love"/>
+<edge source="fact" target="peopl"/>
+<edge source="visit" target="feel"/>
+<edge source="feel" target="lost"/>
+<edge source="lost" target="alon"/>
+<edge source="alon" target="need"/>
+<edge source="need" target="life"/>
+<edge source="need" target="person"/>
+<edge source="guidanc" target="one"/>
+<edge source="click" target="help"/>
+<edge source="support" target="anyon"/>
+<edge source="anyon" target="need"/>
+<edge source="advic" target="imag"/>
+<edge source="imag" target="credit"/>
+<edge source="credit" target="daili"/>
+<edge source="daili" target="cup"/>
+<edge source="cup" target="bloom"/>
+<edge source="bloom" target="’"/>
+<edge source="leav" target="legaci"/>
+</graph></graphml>

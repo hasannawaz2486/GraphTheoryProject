@@ -1,0 +1,406 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="document"/>
+<node id="6"/>
+<node id="hobbi"/>
+<node id="activ"/>
+<node id="person"/>
+<node id="enjoy"/>
+<node id="free"/>
+<node id="time"/>
+<node id="pleasur"/>
+<node id="satisfact"/>
+<node id="relax"/>
+<node id="someth"/>
+<node id="pursu"/>
+<node id="sake"/>
+<node id="rather"/>
+<node id="work"/>
+<node id="academ"/>
+<node id="financi"/>
+<node id="reason"/>
+<node id="rang"/>
+<node id="pursuit"/>
+<node id="like"/>
+<node id="sport"/>
+<node id="fit"/>
+<node id="creativ"/>
+<node id="paint"/>
+<node id="write"/>
+<node id="intellectu"/>
+<node id="read"/>
+<node id="learn"/>
+<node id="new"/>
+<node id="skill"/>
+<node id="passiv"/>
+<node id="watch"/>
+<node id="movi"/>
+<node id="listen"/>
+<node id="music"/>
+<node id="give"/>
+<node id="individu"/>
+<node id="sens"/>
+<node id="accomplish"/>
+<node id="fulfil"/>
+<node id="also"/>
+<node id="offer"/>
+<node id="opportun"/>
+<node id="social"/>
+<node id="interact"/>
+<node id="network"/>
+<node id="develop"/>
+<node id="stress"/>
+<node id="relief"/>
+<node id="benefit"/>
+<node id="mani"/>
+<node id="includ"/>
+<node id="improv"/>
+<node id="mental"/>
+<node id="health"/>
+<node id="help"/>
+<node id="reduc"/>
+<node id="anxieti"/>
+<node id="depress"/>
+<node id="provid"/>
+<node id="healthi"/>
+<node id="outlet"/>
+<node id="emot"/>
+<node id="unwind"/>
+<node id="increas"/>
+<node id="stimul"/>
+<node id="think"/>
+<node id="encourag"/>
+<node id="outsid"/>
+<node id="box"/>
+<node id="lead"/>
+<node id="idea"/>
+<node id="innov"/>
+<node id="self-express"/>
+<node id="express"/>
+<node id="way"/>
+<node id="uniqu"/>
+<node id="interest"/>
+<node id="enhanc"/>
+<node id="allow"/>
+<node id="exist"/>
+<node id="explor"/>
+<node id="area"/>
+<node id="expand"/>
+<node id="connect"/>
+<node id="meet"/>
+<node id="peopl"/>
+<node id="similar"/>
+<node id="passion"/>
+<node id="potenti"/>
+<node id="physic"/>
+<node id="involv"/>
+<node id="overal"/>
+<node id="risk"/>
+<node id="chronic"/>
+<node id="diseas"/>
+<node id="boredom"/>
+<node id="happi"/>
+<node id="purpos"/>
+<node id="monotoni"/>
+<node id="life"/>
+<node id="posit"/>
+<node id="impact"/>
+<node id="’"/>
+<node id="growth"/>
+<node id="qualiti"/>
+<node id="differ"/>
+<node id="type"/>
+<node id="consid"/>
+<node id="depend"/>
+<node id="prefer"/>
+<node id="exampl"/>
+<node id="danc"/>
+<node id="yoga"/>
+<node id="hike"/>
+<node id="creat"/>
+<node id="make"/>
+<node id="draw"/>
+<node id="sculpt"/>
+<node id="photographi"/>
+<node id="cook"/>
+<node id="thing"/>
+<node id="engag"/>
+<node id="solv"/>
+<node id="puzzl"/>
+<node id="languag"/>
+<node id="take"/>
+<node id="onlin"/>
+<node id="cours"/>
+<node id="requir"/>
+<node id="littl"/>
+<node id="effort"/>
+<node id="play"/>
+<node id="video"/>
+<node id="game"/>
+<node id="outdoor"/>
+<node id="spend"/>
+<node id="natur"/>
+<node id="garden"/>
+<node id="birdwatch"/>
+<node id="camp"/>
+<node id="collect"/>
+<node id="curat"/>
+<node id="item"/>
+<node id="stamp"/>
+<node id="coin"/>
+<node id="antiqu"/>
+<node id="book"/>
+<edge source="document" target="6"/>
+<edge source="6" target="hobbi"/>
+<edge source="hobbi" target="activ"/>
+<edge source="hobbi" target="rang"/>
+<edge source="hobbi" target="give"/>
+<edge source="hobbi" target="mani"/>
+<edge source="hobbi" target="includ"/>
+<edge source="hobbi" target="help"/>
+<edge source="hobbi" target="stimul"/>
+<edge source="hobbi" target="provid"/>
+<edge source="hobbi" target="allow"/>
+<edge source="hobbi" target="involv"/>
+<edge source="hobbi" target="posit"/>
+<edge source="hobbi" target="consid"/>
+<edge source="hobbi" target="individu"/>
+<edge source="hobbi" target="hobbi"/>
+<edge source="activ" target="person"/>
+<edge source="activ" target="pursuit"/>
+<edge source="activ" target="sport"/>
+<edge source="activ" target="hobbi"/>
+<edge source="activ" target="requir"/>
+<edge source="person" target="enjoy"/>
+<edge source="person" target="satisfact"/>
+<edge source="person" target="fulfil"/>
+<edge source="person" target="interest"/>
+<edge source="person" target="growth"/>
+<edge source="enjoy" target="free"/>
+<edge source="enjoy" target="also"/>
+<edge source="free" target="time"/>
+<edge source="time" target="pleasur"/>
+<edge source="time" target="outsid"/>
+<edge source="pleasur" target="person"/>
+<edge source="satisfact" target="relax"/>
+<edge source="satisfact" target="pursu"/>
+<edge source="relax" target="someth"/>
+<edge source="relax" target="benefit"/>
+<edge source="relax" target="unwind"/>
+<edge source="someth" target="pursu"/>
+<edge source="someth" target="paint"/>
+<edge source="pursu" target="sake"/>
+<edge source="pursu" target="hobbi"/>
+<edge source="sake" target="rather"/>
+<edge source="rather" target="work"/>
+<edge source="work" target="academ"/>
+<edge source="academ" target="financi"/>
+<edge source="financi" target="reason"/>
+<edge source="reason" target="hobbi"/>
+<edge source="rang" target="activ"/>
+<edge source="pursuit" target="like"/>
+<edge source="pursuit" target="read"/>
+<edge source="like" target="sport"/>
+<edge source="like" target="paint"/>
+<edge source="like" target="read"/>
+<edge source="like" target="watch"/>
+<edge source="sport" target="fit"/>
+<edge source="fit" target="creativ"/>
+<edge source="fit" target="help"/>
+<edge source="fit" target="danc"/>
+<edge source="creativ" target="pursuit"/>
+<edge source="creativ" target="pursu"/>
+<edge source="creativ" target="think"/>
+<edge source="creativ" target="hobbi"/>
+<edge source="paint" target="write"/>
+<edge source="paint" target="draw"/>
+<edge source="write" target="intellectu"/>
+<edge source="write" target="photographi"/>
+<edge source="intellectu" target="pursuit"/>
+<edge source="intellectu" target="hobbi"/>
+<edge source="read" target="learn"/>
+<edge source="read" target="solv"/>
+<edge source="learn" target="new"/>
+<edge source="learn" target="stress"/>
+<edge source="learn" target="opportun"/>
+<edge source="new" target="skill"/>
+<edge source="new" target="idea"/>
+<edge source="new" target="area"/>
+<edge source="new" target="peopl"/>
+<edge source="new" target="thing"/>
+<edge source="new" target="languag"/>
+<edge source="skill" target="passiv"/>
+<edge source="skill" target="develop"/>
+<edge source="skill" target="improv"/>
+<edge source="skill" target="explor"/>
+<edge source="passiv" target="pursuit"/>
+<edge source="passiv" target="hobbi"/>
+<edge source="watch" target="movi"/>
+<edge source="movi" target="listen"/>
+<edge source="listen" target="music"/>
+<edge source="music" target="hobbi"/>
+<edge source="music" target="play"/>
+<edge source="give" target="individu"/>
+<edge source="individu" target="sens"/>
+<edge source="individu" target="relax"/>
+<edge source="individu" target="think"/>
+<edge source="individu" target="learn"/>
+<edge source="individu" target="meet"/>
+<edge source="individu" target="’"/>
+<edge source="individu" target="consid"/>
+<edge source="sens" target="accomplish"/>
+<edge source="sens" target="purpos"/>
+<edge source="accomplish" target="person"/>
+<edge source="accomplish" target="help"/>
+<edge source="fulfil" target="enjoy"/>
+<edge source="fulfil" target="self-express"/>
+<edge source="also" target="offer"/>
+<edge source="offer" target="opportun"/>
+<edge source="opportun" target="social"/>
+<edge source="opportun" target="hobbi"/>
+<edge source="opportun" target="improv"/>
+<edge source="social" target="interact"/>
+<edge source="social" target="connect"/>
+<edge source="social" target="network"/>
+<edge source="interact" target="network"/>
+<edge source="network" target="skill"/>
+<edge source="network" target="opportun"/>
+<edge source="network" target="potenti"/>
+<edge source="develop" target="learn"/>
+<edge source="stress" target="relief"/>
+<edge source="stress" target="anxieti"/>
+<edge source="relief" target="relax"/>
+<edge source="benefit" target="pursu"/>
+<edge source="mani" target="benefit"/>
+<edge source="mani" target="differ"/>
+<edge source="includ" target="improv"/>
+<edge source="improv" target="mental"/>
+<edge source="improv" target="exist"/>
+<edge source="improv" target="physic"/>
+<edge source="improv" target="overal"/>
+<edge source="mental" target="health"/>
+<edge source="mental" target="physic"/>
+<edge source="health" target="hobbi"/>
+<edge source="health" target="reduc"/>
+<edge source="health" target="person"/>
+<edge source="help" target="reduc"/>
+<edge source="help" target="individu"/>
+<edge source="help" target="express"/>
+<edge source="help" target="improv"/>
+<edge source="reduc" target="stress"/>
+<edge source="reduc" target="risk"/>
+<edge source="reduc" target="boredom"/>
+<edge source="anxieti" target="depress"/>
+<edge source="depress" target="provid"/>
+<edge source="provid" target="healthi"/>
+<edge source="provid" target="individu"/>
+<edge source="healthi" target="outlet"/>
+<edge source="outlet" target="emot"/>
+<edge source="emot" target="help"/>
+<edge source="unwind" target="increas"/>
+<edge source="increas" target="creativ"/>
+<edge source="increas" target="happi"/>
+<edge source="stimul" target="creativ"/>
+<edge source="think" target="encourag"/>
+<edge source="think" target="outsid"/>
+<edge source="encourag" target="individu"/>
+<edge source="outsid" target="box"/>
+<edge source="outsid" target="natur"/>
+<edge source="box" target="lead"/>
+<edge source="lead" target="new"/>
+<edge source="lead" target="expand"/>
+<edge source="lead" target="increas"/>
+<edge source="idea" target="innov"/>
+<edge source="innov" target="person"/>
+<edge source="self-express" target="hobbi"/>
+<edge source="express" target="way"/>
+<edge source="way" target="uniqu"/>
+<edge source="uniqu" target="person"/>
+<edge source="interest" target="enhanc"/>
+<edge source="interest" target="expand"/>
+<edge source="interest" target="passion"/>
+<edge source="interest" target="prefer"/>
+<edge source="interest" target="stamp"/>
+<edge source="enhanc" target="skill"/>
+<edge source="allow" target="individu"/>
+<edge source="exist" target="skill"/>
+<edge source="explor" target="new"/>
+<edge source="area" target="interest"/>
+<edge source="expand" target="social"/>
+<edge source="connect" target="network"/>
+<edge source="meet" target="new"/>
+<edge source="peopl" target="similar"/>
+<edge source="similar" target="interest"/>
+<edge source="passion" target="lead"/>
+<edge source="potenti" target="network"/>
+<edge source="physic" target="health"/>
+<edge source="physic" target="activ"/>
+<edge source="physic" target="effort"/>
+<edge source="involv" target="physic"/>
+<edge source="involv" target="creat"/>
+<edge source="involv" target="learn"/>
+<edge source="involv" target="activ"/>
+<edge source="involv" target="spend"/>
+<edge source="involv" target="collect"/>
+<edge source="overal" target="physic"/>
+<edge source="overal" target="qualiti"/>
+<edge source="risk" target="chronic"/>
+<edge source="chronic" target="diseas"/>
+<edge source="diseas" target="reduc"/>
+<edge source="boredom" target="increas"/>
+<edge source="boredom" target="monotoni"/>
+<edge source="happi" target="pursu"/>
+<edge source="happi" target="life"/>
+<edge source="purpos" target="help"/>
+<edge source="monotoni" target="lead"/>
+<edge source="life" target="satisfact"/>
+<edge source="life" target="differ"/>
+<edge source="posit" target="impact"/>
+<edge source="impact" target="individu"/>
+<edge source="’" target="mental"/>
+<edge source="growth" target="overal"/>
+<edge source="qualiti" target="life"/>
+<edge source="differ" target="type"/>
+<edge source="type" target="hobbi"/>
+<edge source="consid" target="mani"/>
+<edge source="consid" target="depend"/>
+<edge source="depend" target="interest"/>
+<edge source="prefer" target="exampl"/>
+<edge source="exampl" target="differ"/>
+<edge source="danc" target="yoga"/>
+<edge source="yoga" target="hike"/>
+<edge source="hike" target="creativ"/>
+<edge source="hike" target="collect"/>
+<edge source="creat" target="make"/>
+<edge source="make" target="someth"/>
+<edge source="draw" target="sculpt"/>
+<edge source="sculpt" target="write"/>
+<edge source="photographi" target="cook"/>
+<edge source="cook" target="intellectu"/>
+<edge source="thing" target="engag"/>
+<edge source="engag" target="intellectu"/>
+<edge source="solv" target="puzzl"/>
+<edge source="puzzl" target="learn"/>
+<edge source="languag" target="take"/>
+<edge source="take" target="onlin"/>
+<edge source="onlin" target="cours"/>
+<edge source="cours" target="passiv"/>
+<edge source="requir" target="littl"/>
+<edge source="littl" target="physic"/>
+<edge source="effort" target="watch"/>
+<edge source="play" target="video"/>
+<edge source="video" target="game"/>
+<edge source="game" target="outdoor"/>
+<edge source="outdoor" target="hobbi"/>
+<edge source="spend" target="time"/>
+<edge source="natur" target="garden"/>
+<edge source="garden" target="birdwatch"/>
+<edge source="birdwatch" target="camp"/>
+<edge source="camp" target="hike"/>
+<edge source="collect" target="hobbi"/>
+<edge source="collect" target="curat"/>
+<edge source="curat" target="item"/>
+<edge source="item" target="interest"/>
+<edge source="stamp" target="coin"/>
+<edge source="coin" target="antiqu"/>
+<edge source="antiqu" target="book"/>
+</graph></graphml>

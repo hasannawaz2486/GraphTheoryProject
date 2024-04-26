@@ -1,0 +1,392 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="document"/>
+<node id="3"/>
+<node id="hobbi"/>
+<node id="give"/>
+<node id="us"/>
+<node id="pleasur"/>
+<node id="love"/>
+<node id="work"/>
+<node id="compuls"/>
+<node id="monetari"/>
+<node id="benefit"/>
+<node id="thu"/>
+<node id="fulfil"/>
+<node id="satisfact"/>
+<node id="joy"/>
+<node id="favourit"/>
+<node id="read"/>
+<node id="said"/>
+<node id="‘"/>
+<node id="mind"/>
+<node id="exercis"/>
+<node id="bodi"/>
+<node id="’"/>
+<node id="truli"/>
+<node id="believ"/>
+<node id="book"/>
+<node id="man"/>
+<node id="best"/>
+<node id="friend"/>
+<node id="year"/>
+<node id="feel"/>
+<node id="becom"/>
+<node id="true"/>
+<node id="cater"/>
+<node id="everi"/>
+<node id="mood"/>
+<node id="answer"/>
+<node id="question"/>
+<node id="popular"/>
+<node id="comput"/>
+<node id="video"/>
+<node id="game"/>
+<node id="recent"/>
+<node id="time"/>
+<node id="habit"/>
+<node id="gener"/>
+<node id="taken"/>
+<node id="backseat"/>
+<node id="peopl"/>
+<node id="occupi"/>
+<node id="watch"/>
+<node id="movi"/>
+<node id="televis"/>
+<node id="addict"/>
+<node id="find"/>
+<node id="littl"/>
+<node id="howev"/>
+<node id="develop"/>
+<node id="awar"/>
+<node id="countless"/>
+<node id="advantag"/>
+<node id="associ"/>
+<node id="start"/>
+<node id="earli"/>
+<node id="age"/>
+<node id="mother"/>
+<node id="grandmoth"/>
+<node id="would"/>
+<node id="tell"/>
+<node id="stori"/>
+<node id="bedtim"/>
+<node id="moral"/>
+<node id="fairi"/>
+<node id="tale"/>
+<node id="use"/>
+<node id="involv"/>
+<node id="ask"/>
+<node id="variou"/>
+<node id="tri"/>
+<node id="visualis"/>
+<node id="ad"/>
+<node id="elabor"/>
+<node id="version"/>
+<node id="grew"/>
+<node id="eager"/>
+<node id="curios"/>
+<node id="increas"/>
+<node id="make"/>
+<node id="realis"/>
+<node id="mani"/>
+<node id="town"/>
+<node id="built"/>
+<node id="scene"/>
+<node id="need"/>
+<node id="new"/>
+<node id="shape"/>
+<node id="imagin"/>
+<node id="fuell"/>
+<node id="passion"/>
+<node id="even"/>
+<node id="king"/>
+<node id="nation"/>
+<node id="angel"/>
+<node id="help"/>
+<node id="needi"/>
+<node id="wander"/>
+<node id="place"/>
+<node id="search"/>
+<node id="treasur"/>
+<node id="also"/>
+<node id="shed"/>
+<node id="tear"/>
+<node id="forgotten"/>
+<node id="belov"/>
+<node id="travel"/>
+<node id="farthest"/>
+<node id="univers"/>
+<node id="met"/>
+<node id="zillion"/>
+<node id="alien"/>
+<node id="addit"/>
+<node id="stop"/>
+<node id="wonder"/>
+<node id="want"/>
+<node id="know"/>
+<node id="end"/>
+<node id="exactli"/>
+<node id="relat"/>
+<node id="author"/>
+<node id="experi"/>
+<node id="intent"/>
+<node id="behind"/>
+<node id="deliv"/>
+<node id="messag"/>
+<node id="genuin"/>
+<node id="walt"/>
+<node id="disney"/>
+<node id="say"/>
+<node id="“"/>
+<node id="pirat"/>
+<node id="loot"/>
+<node id="island"/>
+<node id="”"/>
+<node id="like"/>
+<node id="limit"/>
+<node id="particular"/>
+<node id="genr"/>
+<node id="everyth"/>
+<node id="shakespear"/>
+<node id="john"/>
+<node id="milton"/>
+<node id="jane"/>
+<node id="austen"/>
+<node id="mytholog"/>
+<node id="rabindranath"/>
+<node id="tagor"/>
+<node id="contemporari"/>
+<node id="chetan"/>
+<node id="bhagat"/>
+<node id="paulo"/>
+<node id="coelho"/>
+<node id="premchand"/>
+<node id="newspap"/>
+<node id="magazin"/>
+<node id="well"/>
+<node id="written"/>
+<node id="alway"/>
+<node id="short"/>
+<node id="exclaim"/>
+<node id="case"/>
+<edge source="document" target="3"/>
+<edge source="3" target="hobbi"/>
+<edge source="hobbi" target="give"/>
+<edge source="hobbi" target="read"/>
+<edge source="hobbi" target="awar"/>
+<edge source="give" target="us"/>
+<edge source="us" target="pleasur"/>
+<edge source="us" target="satisfact"/>
+<edge source="pleasur" target="love"/>
+<edge source="love" target="work"/>
+<edge source="work" target="compuls"/>
+<edge source="compuls" target="monetari"/>
+<edge source="monetari" target="benefit"/>
+<edge source="benefit" target="thu"/>
+<edge source="thu" target="fulfil"/>
+<edge source="fulfil" target="give"/>
+<edge source="satisfact" target="joy"/>
+<edge source="joy" target="favourit"/>
+<edge source="favourit" target="hobbi"/>
+<edge source="read" target="said"/>
+<edge source="read" target="mind"/>
+<edge source="read" target="gener"/>
+<edge source="read" target="howev"/>
+<edge source="read" target="hobbi"/>
+<edge source="read" target="start"/>
+<edge source="read" target="even"/>
+<edge source="read" target="king"/>
+<edge source="read" target="travel"/>
+<edge source="read" target="book"/>
+<edge source="read" target="exactli"/>
+<edge source="read" target="limit"/>
+<edge source="read" target="everyth"/>
+<edge source="read" target="newspap"/>
+<edge source="said" target="‘"/>
+<edge source="‘" target="read"/>
+<edge source="mind" target="exercis"/>
+<edge source="exercis" target="bodi"/>
+<edge source="bodi" target="’"/>
+<edge source="’" target="truli"/>
+<edge source="’" target="best"/>
+<edge source="’" target="stop"/>
+<edge source="’" target="feel"/>
+<edge source="’" target="loot"/>
+<edge source="truli" target="believ"/>
+<edge source="believ" target="book"/>
+<edge source="believ" target="walt"/>
+<edge source="book" target="man"/>
+<edge source="book" target="becom"/>
+<edge source="book" target="’"/>
+<edge source="book" target="pirat"/>
+<edge source="book" target="read"/>
+<edge source="book" target="rabindranath"/>
+<edge source="book" target="well"/>
+<edge source="man" target="’"/>
+<edge source="best" target="friend"/>
+<edge source="friend" target="year"/>
+<edge source="friend" target="cater"/>
+<edge source="year" target="feel"/>
+<edge source="feel" target="book"/>
+<edge source="feel" target="experi"/>
+<edge source="becom" target="true"/>
+<edge source="becom" target="involv"/>
+<edge source="true" target="friend"/>
+<edge source="cater" target="everi"/>
+<edge source="everi" target="mood"/>
+<edge source="mood" target="answer"/>
+<edge source="answer" target="question"/>
+<edge source="question" target="popular"/>
+<edge source="question" target="use"/>
+<edge source="popular" target="comput"/>
+<edge source="comput" target="video"/>
+<edge source="comput" target="game"/>
+<edge source="video" target="game"/>
+<edge source="game" target="recent"/>
+<edge source="game" target="find"/>
+<edge source="recent" target="time"/>
+<edge source="time" target="habit"/>
+<edge source="time" target="read"/>
+<edge source="habit" target="read"/>
+<edge source="gener" target="taken"/>
+<edge source="taken" target="backseat"/>
+<edge source="backseat" target="peopl"/>
+<edge source="peopl" target="occupi"/>
+<edge source="occupi" target="watch"/>
+<edge source="watch" target="movi"/>
+<edge source="movi" target="televis"/>
+<edge source="televis" target="addict"/>
+<edge source="addict" target="comput"/>
+<edge source="find" target="littl"/>
+<edge source="find" target="short"/>
+<edge source="littl" target="time"/>
+<edge source="howev" target="develop"/>
+<edge source="develop" target="read"/>
+<edge source="awar" target="countless"/>
+<edge source="countless" target="advantag"/>
+<edge source="advantag" target="associ"/>
+<edge source="associ" target="habit"/>
+<edge source="start" target="earli"/>
+<edge source="start" target="read"/>
+<edge source="earli" target="age"/>
+<edge source="age" target="mother"/>
+<edge source="mother" target="grandmoth"/>
+<edge source="grandmoth" target="would"/>
+<edge source="would" target="tell"/>
+<edge source="would" target="end"/>
+<edge source="tell" target="stori"/>
+<edge source="tell" target="moral"/>
+<edge source="stori" target="bedtim"/>
+<edge source="stori" target="fairi"/>
+<edge source="stori" target="ask"/>
+<edge source="stori" target="ad"/>
+<edge source="bedtim" target="would"/>
+<edge source="moral" target="stori"/>
+<edge source="fairi" target="tale"/>
+<edge source="tale" target="use"/>
+<edge source="use" target="becom"/>
+<edge source="use" target="tri"/>
+<edge source="involv" target="stori"/>
+<edge source="ask" target="variou"/>
+<edge source="variou" target="question"/>
+<edge source="tri" target="visualis"/>
+<edge source="visualis" target="stori"/>
+<edge source="ad" target="elabor"/>
+<edge source="elabor" target="version"/>
+<edge source="version" target="grew"/>
+<edge source="grew" target="eager"/>
+<edge source="eager" target="curios"/>
+<edge source="curios" target="increas"/>
+<edge source="increas" target="make"/>
+<edge source="make" target="realis"/>
+<edge source="make" target="wonder"/>
+<edge source="realis" target="mani"/>
+<edge source="mani" target="town"/>
+<edge source="mani" target="scene"/>
+<edge source="mani" target="like"/>
+<edge source="town" target="built"/>
+<edge source="built" target="mani"/>
+<edge source="scene" target="need"/>
+<edge source="need" target="new"/>
+<edge source="new" target="shape"/>
+<edge source="shape" target="imagin"/>
+<edge source="imagin" target="fuell"/>
+<edge source="fuell" target="passion"/>
+<edge source="passion" target="read"/>
+<edge source="even" target="read"/>
+<edge source="king" target="nation"/>
+<edge source="nation" target="angel"/>
+<edge source="angel" target="help"/>
+<edge source="help" target="needi"/>
+<edge source="needi" target="wander"/>
+<edge source="wander" target="place"/>
+<edge source="place" target="search"/>
+<edge source="search" target="treasur"/>
+<edge source="treasur" target="also"/>
+<edge source="treasur" target="book"/>
+<edge source="treasur" target="island"/>
+<edge source="also" target="shed"/>
+<edge source="shed" target="tear"/>
+<edge source="tear" target="forgotten"/>
+<edge source="forgotten" target="belov"/>
+<edge source="belov" target="read"/>
+<edge source="travel" target="farthest"/>
+<edge source="farthest" target="univers"/>
+<edge source="univers" target="met"/>
+<edge source="met" target="zillion"/>
+<edge source="zillion" target="alien"/>
+<edge source="alien" target="addit"/>
+<edge source="addit" target="start"/>
+<edge source="stop" target="make"/>
+<edge source="wonder" target="want"/>
+<edge source="want" target="know"/>
+<edge source="know" target="would"/>
+<edge source="end" target="read"/>
+<edge source="exactli" target="relat"/>
+<edge source="relat" target="author"/>
+<edge source="author" target="’"/>
+<edge source="experi" target="intent"/>
+<edge source="intent" target="behind"/>
+<edge source="behind" target="deliv"/>
+<edge source="deliv" target="messag"/>
+<edge source="messag" target="genuin"/>
+<edge source="genuin" target="believ"/>
+<edge source="walt" target="disney"/>
+<edge source="disney" target="say"/>
+<edge source="say" target="“"/>
+<edge source="“" target="treasur"/>
+<edge source="“" target="book"/>
+<edge source="pirat" target="’"/>
+<edge source="loot" target="treasur"/>
+<edge source="island" target="”"/>
+<edge source="”" target="like"/>
+<edge source="”" target="exclaim"/>
+<edge source="like" target="read"/>
+<edge source="like" target="chetan"/>
+<edge source="limit" target="particular"/>
+<edge source="particular" target="genr"/>
+<edge source="genr" target="like"/>
+<edge source="everyth" target="shakespear"/>
+<edge source="shakespear" target="john"/>
+<edge source="john" target="milton"/>
+<edge source="milton" target="jane"/>
+<edge source="jane" target="austen"/>
+<edge source="austen" target="mytholog"/>
+<edge source="austen" target="case"/>
+<edge source="mytholog" target="book"/>
+<edge source="rabindranath" target="tagor"/>
+<edge source="tagor" target="contemporari"/>
+<edge source="contemporari" target="genr"/>
+<edge source="chetan" target="bhagat"/>
+<edge source="bhagat" target="paulo"/>
+<edge source="paulo" target="coelho"/>
+<edge source="coelho" target="premchand"/>
+<edge source="premchand" target="mani"/>
+<edge source="newspap" target="magazin"/>
+<edge source="magazin" target="“"/>
+<edge source="well" target="written"/>
+<edge source="written" target="alway"/>
+<edge source="alway" target="find"/>
+<edge source="short" target="”"/>
+<edge source="exclaim" target="jane"/>
+</graph></graphml>

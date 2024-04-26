@@ -1,0 +1,375 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="document"/>
+<node id="24"/>
+<node id="william"/>
+<node id="reader"/>
+<node id="problogg"/>
+<node id="ask"/>
+<node id="‘"/>
+<node id="mani"/>
+<node id="divers"/>
+<node id="hobbi"/>
+<node id="interest"/>
+<node id="want"/>
+<node id="start"/>
+<node id="blog"/>
+<node id="plu"/>
+<node id="’"/>
+<node id="also"/>
+<node id="like"/>
+<node id="make"/>
+<node id="adsens"/>
+<node id="likes…"/>
+<node id="better"/>
+<node id="one"/>
+<node id="site"/>
+<node id="multipl"/>
+<node id="categori"/>
+<node id="highlight"/>
+<node id="specif"/>
+<node id="great"/>
+<node id="question"/>
+<node id="think"/>
+<node id="would"/>
+<node id="well"/>
+<node id="common"/>
+<node id="way"/>
+<node id="blogger"/>
+<node id="entrepreneuri"/>
+<node id="person"/>
+<node id="gener"/>
+<node id="cover"/>
+<node id="topic"/>
+<node id="sens"/>
+<node id="–"/>
+<node id="simpler"/>
+<node id="place"/>
+<node id="manag"/>
+<node id="set"/>
+<node id="statist"/>
+<node id="design"/>
+<node id="etc"/>
+<node id="platform"/>
+<node id="seem"/>
+<node id="pretti"/>
+<node id="allow"/>
+<node id="creat"/>
+<node id="whilst"/>
+<node id="might"/>
+<node id="easier"/>
+<node id="alway"/>
+<node id="good"/>
+<node id="busi"/>
+<node id="year"/>
+<node id="began"/>
+<node id="notic"/>
+<node id="number"/>
+<node id="thing"/>
+<node id="made"/>
+<node id="consid"/>
+<node id="new"/>
+<node id="approach"/>
+<node id="end"/>
+<node id="got"/>
+<node id="littl"/>
+<node id="much"/>
+<node id="bare"/>
+<node id="decid"/>
+<node id="splinter"/>
+<node id="nich"/>
+<node id="solv"/>
+<node id="problem"/>
+<node id="disillus"/>
+<node id="confus"/>
+<node id="guilti"/>
+<node id="quit"/>
+<node id="relief"/>
+<node id="focu"/>
+<node id="upon"/>
+<node id="specialti"/>
+<node id="rather"/>
+<node id="big"/>
+<node id="meta-blog"/>
+<node id="success"/>
+<node id="level"/>
+<node id="eclect"/>
+<node id="rang"/>
+<node id="major"/>
+<node id="profit"/>
+<node id="observ"/>
+<node id="defin"/>
+<node id="target"/>
+<node id="explain"/>
+<node id="along"/>
+<node id="line"/>
+<node id="past"/>
+<node id="18"/>
+<node id="month"/>
+<node id="sinc"/>
+<node id="move"/>
+<node id="gone"/>
+<node id="1"/>
+<node id="1000"/>
+<node id="page"/>
+<node id="around"/>
+<node id="900"/>
+<node id="daili"/>
+<node id="visitor"/>
+<node id="earn"/>
+<node id="dollar"/>
+<node id="per"/>
+<node id="day"/>
+<node id="20"/>
+<node id="11,000"/>
+<node id="25,000"/>
+<node id="hundr"/>
+<node id="cours"/>
+<node id="factor"/>
+<node id="led"/>
+<node id="growth"/>
+<node id="narrow"/>
+<node id="key"/>
+<node id="hope"/>
+<node id="answer"/>
+<node id="understand"/>
+<node id="complet"/>
+<node id="becom"/>
+<node id="concern"/>
+<node id="theme"/>
+<node id="map"/>
+<node id="post"/>
+<node id="reflect"/>
+<node id="particular"/>
+<node id="plan"/>
+<node id="use"/>
+<edge source="document" target="24"/>
+<edge source="24" target="william"/>
+<edge source="william" target="reader"/>
+<edge source="william" target="one"/>
+<edge source="william" target="understand"/>
+<edge source="reader" target="problogg"/>
+<edge source="reader" target="etc"/>
+<edge source="reader" target="confus"/>
+<edge source="problogg" target="ask"/>
+<edge source="problogg" target="would"/>
+<edge source="ask" target="‘"/>
+<edge source="‘" target="mani"/>
+<edge source="mani" target="divers"/>
+<edge source="mani" target="blogger"/>
+<edge source="mani" target="topic"/>
+<edge source="mani" target="way"/>
+<edge source="mani" target="level"/>
+<edge source="divers" target="hobbi"/>
+<edge source="hobbi" target="interest"/>
+<edge source="interest" target="want"/>
+<edge source="interest" target="’"/>
+<edge source="interest" target="make"/>
+<edge source="interest" target="map"/>
+<edge source="want" target="start"/>
+<edge source="start" target="blog"/>
+<edge source="start" target="entrepreneuri"/>
+<edge source="start" target="reflect"/>
+<edge source="blog" target="plu"/>
+<edge source="blog" target="site"/>
+<edge source="blog" target="person"/>
+<edge source="blog" target="cover"/>
+<edge source="blog" target="platform"/>
+<edge source="blog" target="mani"/>
+<edge source="blog" target="way"/>
+<edge source="blog" target="nich"/>
+<edge source="blog" target="rather"/>
+<edge source="blog" target="success"/>
+<edge source="blog" target="’"/>
+<edge source="blog" target="along"/>
+<edge source="blog" target="1000"/>
+<edge source="blog" target="11,000"/>
+<edge source="blog" target="key"/>
+<edge source="blog" target="seem"/>
+<edge source="blog" target="specif"/>
+<edge source="plu" target="’"/>
+<edge source="’" target="also"/>
+<edge source="’" target="great"/>
+<edge source="’" target="simpler"/>
+<edge source="’" target="alway"/>
+<edge source="’" target="observ"/>
+<edge source="’" target="gone"/>
+<edge source="’" target="becom"/>
+<edge source="also" target="like"/>
+<edge source="like" target="make"/>
+<edge source="make" target="adsens"/>
+<edge source="make" target="sens"/>
+<edge source="make" target="good"/>
+<edge source="adsens" target="likes…"/>
+<edge source="likes…" target="better"/>
+<edge source="better" target="one"/>
+<edge source="one" target="blog"/>
+<edge source="one" target="think"/>
+<edge source="one" target="common"/>
+<edge source="one" target="place"/>
+<edge source="one" target="set"/>
+<edge source="one" target="design"/>
+<edge source="one" target="factor"/>
+<edge source="site" target="multipl"/>
+<edge source="site" target="highlight"/>
+<edge source="multipl" target="categori"/>
+<edge source="multipl" target="blog"/>
+<edge source="categori" target="multipl"/>
+<edge source="categori" target="creat"/>
+<edge source="highlight" target="specif"/>
+<edge source="specif" target="interest"/>
+<edge source="specif" target="topic"/>
+<edge source="great" target="question"/>
+<edge source="question" target="william"/>
+<edge source="think" target="problogg"/>
+<edge source="think" target="one"/>
+<edge source="would" target="well"/>
+<edge source="would" target="nich"/>
+<edge source="well" target="think"/>
+<edge source="well" target="set"/>
+<edge source="common" target="way"/>
+<edge source="way" target="mani"/>
+<edge source="way" target="–"/>
+<edge source="way" target="began"/>
+<edge source="blogger" target="start"/>
+<edge source="entrepreneuri" target="blog"/>
+<edge source="person" target="gener"/>
+<edge source="person" target="blog"/>
+<edge source="gener" target="blog"/>
+<edge source="gener" target="meta-blog"/>
+<edge source="gener" target="eclect"/>
+<edge source="gener" target="theme"/>
+<edge source="cover" target="mani"/>
+<edge source="cover" target="whilst"/>
+<edge source="topic" target="interest"/>
+<edge source="topic" target="cover"/>
+<edge source="topic" target="’"/>
+<edge source="topic" target="solv"/>
+<edge source="topic" target="major"/>
+<edge source="sens" target="mani"/>
+<edge source="sens" target="year"/>
+<edge source="sens" target="focu"/>
+<edge source="–" target="’"/>
+<edge source="–" target="narrow"/>
+<edge source="–" target="hope"/>
+<edge source="simpler" target="one"/>
+<edge source="place" target="manag"/>
+<edge source="manag" target="one"/>
+<edge source="set" target="statist"/>
+<edge source="set" target="reader"/>
+<edge source="set" target="allow"/>
+<edge source="set" target="nich"/>
+<edge source="statist" target="one"/>
+<edge source="design" target="one"/>
+<edge source="etc" target="blog"/>
+<edge source="platform" target="seem"/>
+<edge source="seem" target="pretti"/>
+<edge source="seem" target="easier"/>
+<edge source="seem" target="gener"/>
+<edge source="pretti" target="well"/>
+<edge source="allow" target="categori"/>
+<edge source="creat" target="topic"/>
+<edge source="whilst" target="might"/>
+<edge source="whilst" target="blog"/>
+<edge source="might" target="seem"/>
+<edge source="easier" target="manag"/>
+<edge source="alway" target="make"/>
+<edge source="good" target="busi"/>
+<edge source="busi" target="sens"/>
+<edge source="busi" target="level"/>
+<edge source="year" target="blog"/>
+<edge source="began" target="notic"/>
+<edge source="notic" target="number"/>
+<edge source="number" target="thing"/>
+<edge source="thing" target="made"/>
+<edge source="made" target="consid"/>
+<edge source="made" target="good"/>
+<edge source="consid" target="new"/>
+<edge source="new" target="approach"/>
+<edge source="approach" target="end"/>
+<edge source="approach" target="explain"/>
+<edge source="approach" target="blog"/>
+<edge source="approach" target="’"/>
+<edge source="end" target="got"/>
+<edge source="got" target="littl"/>
+<edge source="littl" target="much"/>
+<edge source="much" target="bare"/>
+<edge source="bare" target="decid"/>
+<edge source="decid" target="splinter"/>
+<edge source="splinter" target="blog"/>
+<edge source="nich" target="topic"/>
+<edge source="nich" target="specialti"/>
+<edge source="nich" target="target"/>
+<edge source="nich" target="past"/>
+<edge source="nich" target="blog"/>
+<edge source="solv" target="problem"/>
+<edge source="problem" target="disillus"/>
+<edge source="disillus" target="reader"/>
+<edge source="confus" target="guilti"/>
+<edge source="guilti" target="quit"/>
+<edge source="quit" target="relief"/>
+<edge source="relief" target="made"/>
+<edge source="focu" target="upon"/>
+<edge source="upon" target="nich"/>
+<edge source="specialti" target="blog"/>
+<edge source="rather" target="big"/>
+<edge source="big" target="gener"/>
+<edge source="meta-blog" target="whilst"/>
+<edge source="success" target="busi"/>
+<edge source="success" target="approach"/>
+<edge source="level" target="gener"/>
+<edge source="level" target="approach"/>
+<edge source="eclect" target="rang"/>
+<edge source="rang" target="topic"/>
+<edge source="major" target="profit"/>
+<edge source="profit" target="blog"/>
+<edge source="observ" target="defin"/>
+<edge source="defin" target="nich"/>
+<edge source="target" target="success"/>
+<edge source="explain" target="mani"/>
+<edge source="along" target="line"/>
+<edge source="line" target="nich"/>
+<edge source="past" target="18"/>
+<edge source="18" target="month"/>
+<edge source="month" target="sinc"/>
+<edge source="sinc" target="move"/>
+<edge source="move" target="approach"/>
+<edge source="gone" target="1"/>
+<edge source="1" target="blog"/>
+<edge source="1000" target="page"/>
+<edge source="page" target="around"/>
+<edge source="page" target="25,000"/>
+<edge source="around" target="900"/>
+<edge source="900" target="daili"/>
+<edge source="daili" target="visitor"/>
+<edge source="visitor" target="earn"/>
+<edge source="earn" target="dollar"/>
+<edge source="earn" target="hundr"/>
+<edge source="dollar" target="per"/>
+<edge source="per" target="day"/>
+<edge source="day" target="20"/>
+<edge source="day" target="cours"/>
+<edge source="20" target="blog"/>
+<edge source="11,000" target="page"/>
+<edge source="25,000" target="daili"/>
+<edge source="hundr" target="dollar"/>
+<edge source="cours" target="factor"/>
+<edge source="factor" target="led"/>
+<edge source="factor" target="would"/>
+<edge source="led" target="growth"/>
+<edge source="growth" target="–"/>
+<edge source="narrow" target="one"/>
+<edge source="key" target="–"/>
+<edge source="hope" target="answer"/>
+<edge source="answer" target="question"/>
+<edge source="understand" target="complet"/>
+<edge source="complet" target="’"/>
+<edge source="becom" target="concern"/>
+<edge source="concern" target="person"/>
+<edge source="theme" target="interest"/>
+<edge source="map" target="post"/>
+<edge source="post" target="start"/>
+<edge source="reflect" target="particular"/>
+<edge source="particular" target="plan"/>
+<edge source="plan" target="use"/>
+<edge source="use" target="set"/>
+</graph></graphml>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="document"/>
+<node id="15"/>
+<node id="someth"/>
+<node id="went"/>
+<node id="wrong"/>
+<node id="wait"/>
+<node id="moment"/>
+<node id="tri"/>
+<edge source="document" target="15"/>
+<edge source="15" target="someth"/>
+<edge source="someth" target="went"/>
+<edge source="went" target="wrong"/>
+<edge source="wrong" target="wait"/>
+<edge source="wait" target="moment"/>
+<edge source="moment" target="tri"/>
+</graph></graphml>

@@ -1,0 +1,293 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="document"/>
+<node id="16"/>
+<node id="brows"/>
+<node id="900"/>
+<node id="catchi"/>
+<node id="creativ"/>
+<node id="lifestyl"/>
+<node id="blog"/>
+<node id="name"/>
+<node id="idea"/>
+<node id="filter"/>
+<node id="search"/>
+<node id="easy-to-us"/>
+<node id="dashboard"/>
+<node id="come"/>
+<node id="stress"/>
+<node id="task"/>
+<node id="need"/>
+<node id="captur"/>
+<node id="essenc"/>
+<node id="nich"/>
+<node id="without"/>
+<node id="long"/>
+<node id="’"/>
+<node id="narrow"/>
+<node id="list"/>
+<node id="find"/>
+<node id="domain"/>
+<node id="instagram"/>
+<node id="usernam"/>
+<node id="alreadi"/>
+<node id="taken"/>
+<node id="probabl"/>
+<node id="high"/>
+<node id="impact"/>
+<node id="thing"/>
+<node id="launch"/>
+<node id="use"/>
+<node id="ai"/>
+<node id="gener"/>
+<node id="give"/>
+<node id="inspir"/>
+<node id="base"/>
+<node id="mani"/>
+<node id="categori"/>
+<node id="could"/>
+<node id="think"/>
+<node id="might"/>
+<node id="imagin"/>
+<node id="take"/>
+<node id="quit"/>
+<node id="scroll"/>
+<node id="hundr"/>
+<node id="creat"/>
+<node id="searchabl"/>
+<node id="categor"/>
+<node id="zero"/>
+<node id="like"/>
+<node id="consid"/>
+<node id="swap"/>
+<node id="compon"/>
+<node id="anoth"/>
+<node id="better"/>
+<node id="back"/>
+<node id="tabl"/>
+<node id="content"/>
+<node id="go"/>
+<node id="hope"/>
+<node id="900+"/>
+<node id="gave"/>
+<node id="still"/>
+<node id="stuck"/>
+<node id="check"/>
+<node id="databas"/>
+<node id="busi"/>
+<node id="creator"/>
+<node id="economi"/>
+<node id="top"/>
+<node id="1"/>
+<node id="includ"/>
+<node id="opportun"/>
+<node id="build"/>
+<node id="love"/>
+<node id="term"/>
+<node id="look"/>
+<node id="sell"/>
+<node id="digit"/>
+<node id="product"/>
+<node id="freedom"/>
+<node id="stabil"/>
+<node id="fulfil"/>
+<node id="audienc"/>
+<node id="leap"/>
+<node id="option"/>
+<node id="power"/>
+<node id="built-in"/>
+<node id="onlin"/>
+<node id="storefront"/>
+<node id="time"/>
+<node id="dollar"/>
+<node id="music"/>
+<node id="ear"/>
+<node id="know"/>
+<node id="colin"/>
+<node id="market"/>
+<node id="thinkif"/>
+<node id="write"/>
+<node id="everyth"/>
+<node id="entrepreneurship"/>
+<node id="cours"/>
+<node id="creation"/>
+<node id="strategi"/>
+<node id="download"/>
+<node id="guid"/>
+<node id="start"/>
+<node id="program"/>
+<node id="thank"/>
+<node id="way"/>
+<node id="inbox."/>
+<edge source="document" target="16"/>
+<edge source="16" target="brows"/>
+<edge source="brows" target="900"/>
+<edge source="900" target="catchi"/>
+<edge source="900" target="lifestyl"/>
+<edge source="catchi" target="creativ"/>
+<edge source="creativ" target="lifestyl"/>
+<edge source="creativ" target="captur"/>
+<edge source="lifestyl" target="blog"/>
+<edge source="blog" target="name"/>
+<edge source="blog" target="stress"/>
+<edge source="blog" target="use"/>
+<edge source="name" target="idea"/>
+<edge source="name" target="catchi"/>
+<edge source="name" target="instagram"/>
+<edge source="name" target="lifestyl"/>
+<edge source="name" target="list"/>
+<edge source="name" target="like"/>
+<edge source="name" target="gave"/>
+<edge source="idea" target="filter"/>
+<edge source="idea" target="lifestyl"/>
+<edge source="idea" target="give"/>
+<edge source="idea" target="creat"/>
+<edge source="idea" target="creator"/>
+<edge source="filter" target="search"/>
+<edge source="filter" target="zero"/>
+<edge source="search" target="easy-to-us"/>
+<edge source="easy-to-us" target="dashboard"/>
+<edge source="dashboard" target="come"/>
+<edge source="dashboard" target="categor"/>
+<edge source="come" target="name"/>
+<edge source="stress" target="task"/>
+<edge source="task" target="need"/>
+<edge source="need" target="come"/>
+<edge source="captur" target="essenc"/>
+<edge source="essenc" target="nich"/>
+<edge source="nich" target="without"/>
+<edge source="nich" target="’"/>
+<edge source="without" target="long"/>
+<edge source="long" target="’"/>
+<edge source="’" target="narrow"/>
+<edge source="’" target="high"/>
+<edge source="’" target="use"/>
+<edge source="’" target="like"/>
+<edge source="’" target="still"/>
+<edge source="’" target="creator"/>
+<edge source="’" target="built-in"/>
+<edge source="’" target="music"/>
+<edge source="’" target="ear"/>
+<edge source="’" target="know"/>
+<edge source="narrow" target="list"/>
+<edge source="list" target="find"/>
+<edge source="list" target="impact"/>
+<edge source="list" target="consid"/>
+<edge source="find" target="domain"/>
+<edge source="domain" target="name"/>
+<edge source="instagram" target="usernam"/>
+<edge source="usernam" target="alreadi"/>
+<edge source="alreadi" target="taken"/>
+<edge source="taken" target="probabl"/>
+<edge source="probabl" target="’"/>
+<edge source="high" target="list"/>
+<edge source="impact" target="thing"/>
+<edge source="thing" target="launch"/>
+<edge source="launch" target="’"/>
+<edge source="use" target="ai"/>
+<edge source="use" target="filter"/>
+<edge source="ai" target="gener"/>
+<edge source="ai" target="creator"/>
+<edge source="gener" target="900"/>
+<edge source="gener" target="ai"/>
+<edge source="give" target="inspir"/>
+<edge source="give" target="power"/>
+<edge source="inspir" target="base"/>
+<edge source="inspir" target="’"/>
+<edge source="base" target="mani"/>
+<edge source="mani" target="categori"/>
+<edge source="categori" target="could"/>
+<edge source="could" target="think"/>
+<edge source="think" target="might"/>
+<edge source="might" target="imagin"/>
+<edge source="might" target="take"/>
+<edge source="imagin" target="might"/>
+<edge source="take" target="quit"/>
+<edge source="quit" target="scroll"/>
+<edge source="scroll" target="hundr"/>
+<edge source="hundr" target="name"/>
+<edge source="creat" target="searchabl"/>
+<edge source="creat" target="fulfil"/>
+<edge source="searchabl" target="dashboard"/>
+<edge source="searchabl" target="databas"/>
+<edge source="categor" target="name"/>
+<edge source="zero" target="nich"/>
+<edge source="zero" target="dollar"/>
+<edge source="like" target="blog"/>
+<edge source="like" target="better"/>
+<edge source="consid" target="swap"/>
+<edge source="swap" target="compon"/>
+<edge source="compon" target="anoth"/>
+<edge source="anoth" target="name"/>
+<edge source="better" target="back"/>
+<edge source="back" target="tabl"/>
+<edge source="tabl" target="content"/>
+<edge source="content" target="back"/>
+<edge source="content" target="go"/>
+<edge source="content" target="audienc"/>
+<edge source="content" target="market"/>
+<edge source="go" target="hope"/>
+<edge source="hope" target="900+"/>
+<edge source="900+" target="lifestyl"/>
+<edge source="gave" target="inspir"/>
+<edge source="still" target="stuck"/>
+<edge source="stuck" target="check"/>
+<edge source="check" target="searchabl"/>
+<edge source="databas" target="busi"/>
+<edge source="busi" target="name"/>
+<edge source="busi" target="love"/>
+<edge source="creator" target="economi"/>
+<edge source="creator" target="look"/>
+<edge source="creator" target="build"/>
+<edge source="creator" target="’"/>
+<edge source="economi" target="top"/>
+<edge source="economi" target="includ"/>
+<edge source="top" target="1"/>
+<edge source="1" target="creator"/>
+<edge source="includ" target="opportun"/>
+<edge source="opportun" target="build"/>
+<edge source="build" target="busi"/>
+<edge source="build" target="digit"/>
+<edge source="build" target="onlin"/>
+<edge source="love" target="term"/>
+<edge source="term" target="’"/>
+<edge source="look" target="sell"/>
+<edge source="sell" target="digit"/>
+<edge source="digit" target="product"/>
+<edge source="digit" target="market"/>
+<edge source="product" target="freedom"/>
+<edge source="product" target="onlin"/>
+<edge source="freedom" target="stabil"/>
+<edge source="stabil" target="creat"/>
+<edge source="fulfil" target="content"/>
+<edge source="audienc" target="leap"/>
+<edge source="leap" target="option"/>
+<edge source="leap" target="’"/>
+<edge source="option" target="give"/>
+<edge source="power" target="leap"/>
+<edge source="built-in" target="gener"/>
+<edge source="onlin" target="storefront"/>
+<edge source="onlin" target="entrepreneurship"/>
+<edge source="onlin" target="program"/>
+<edge source="storefront" target="time"/>
+<edge source="time" target="zero"/>
+<edge source="dollar" target="’"/>
+<edge source="music" target="creator"/>
+<edge source="ear" target="’"/>
+<edge source="know" target="colin"/>
+<edge source="colin" target="content"/>
+<edge source="market" target="thinkif"/>
+<edge source="market" target="strategi"/>
+<edge source="thinkif" target="write"/>
+<edge source="write" target="everyth"/>
+<edge source="everyth" target="onlin"/>
+<edge source="entrepreneurship" target="cours"/>
+<edge source="cours" target="creation"/>
+<edge source="creation" target="digit"/>
+<edge source="strategi" target="download"/>
+<edge source="download" target="guid"/>
+<edge source="guid" target="start"/>
+<edge source="start" target="build"/>
+<edge source="program" target="thank"/>
+<edge source="thank" target="way"/>
+<edge source="way" target="inbox."/>
+</graph></graphml>

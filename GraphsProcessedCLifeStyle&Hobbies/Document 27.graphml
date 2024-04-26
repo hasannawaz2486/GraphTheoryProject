@@ -1,0 +1,515 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="document"/>
+<node id="27"/>
+<node id="trust"/>
+<node id="busi"/>
+<node id="builder"/>
+<node id="worldwid"/>
+<node id="hubspot"/>
+<node id="blog"/>
+<node id="number-on"/>
+<node id="sourc"/>
+<node id="educ"/>
+<node id="inspir"/>
+<node id="resourc"/>
+<node id="idea"/>
+<node id="put"/>
+<node id="modern"/>
+<node id="market"/>
+<node id="ahead"/>
+<node id="curv"/>
+<node id="strategi"/>
+<node id="help"/>
+<node id="elev"/>
+<node id="sale"/>
+<node id="effort"/>
+<node id="everyth"/>
+<node id="need"/>
+<node id="deliv"/>
+<node id="top-notch"/>
+<node id="custom"/>
+<node id="servic"/>
+<node id="tutori"/>
+<node id="how-to"/>
+<node id="build"/>
+<node id="better"/>
+<node id="websit"/>
+<node id="essenti"/>
+<node id="daili"/>
+<node id="read"/>
+<node id="thing"/>
+<node id="ai"/>
+<node id="'s"/>
+<node id="handcraft"/>
+<node id="email"/>
+<node id="newslett"/>
+<node id="tuck"/>
+<node id="one"/>
+<node id="place"/>
+<node id="irrever"/>
+<node id="insight"/>
+<node id="take"/>
+<node id="tech"/>
+<node id="inbox"/>
+<node id="data-back"/>
+<node id="trend"/>
+<node id="research"/>
+<node id="industri"/>
+<node id="analys"/>
+<node id="weekli"/>
+<node id="new"/>
+<node id="oper"/>
+<node id="wisdom"/>
+<node id="keep"/>
+<node id="leader"/>
+<node id="tip"/>
+<node id="tactic"/>
+<node id="experienc"/>
+<node id="rep"/>
+<node id="make"/>
+<node id="presid"/>
+<node id="club"/>
+<node id="brows"/>
+<node id="collect"/>
+<node id="show"/>
+<node id="video"/>
+<node id="youtub"/>
+<node id="unriv"/>
+<node id="storytel"/>
+<node id="format"/>
+<node id="subscrib"/>
+<node id="littl"/>
+<node id="revel"/>
+<node id="across"/>
+<node id="learn"/>
+<node id="skill"/>
+<node id="straight"/>
+<node id="expert"/>
+<node id="come"/>
+<node id="brainstorm"/>
+<node id="sam"/>
+<node id="shaan"/>
+<node id="legend"/>
+<node id="game"/>
+<node id="watch"/>
+<node id="two"/>
+<node id="cerebr"/>
+<node id="cmo"/>
+<node id="tackl"/>
+<node id="know"/>
+<node id="podcast"/>
+<node id="network"/>
+<node id="destin"/>
+<node id="profession"/>
+<node id="seek"/>
+<node id="best"/>
+<node id="grow"/>
+<node id="week"/>
+<node id="host"/>
+<node id="parr"/>
+<node id="puri"/>
+<node id="explor"/>
+<node id="base"/>
+<node id="opportun"/>
+<node id="redefin"/>
+<node id="success"/>
+<node id="mean"/>
+<node id="find"/>
+<node id="joy"/>
+<node id="eas"/>
+<node id="peac"/>
+<node id="pursuit"/>
+<node id="goal"/>
+<node id="dose"/>
+<node id="offbeat"/>
+<node id="inform"/>
+<node id="news"/>
+<node id="anoth"/>
+<node id="bite"/>
+<node id="break"/>
+<node id="latest"/>
+<node id="greatest"/>
+<node id="pitch"/>
+<node id="shark"/>
+<node id="tank"/>
+<node id="far"/>
+<node id="fast"/>
+<node id="kipp"/>
+<node id="bodnar"/>
+<node id="zapier"/>
+<node id="kieran"/>
+<node id="flanagan"/>
+<node id="share"/>
+<node id="happen"/>
+<node id="expand"/>
+<node id="knowledg"/>
+<node id="control"/>
+<node id="career"/>
+<node id="in-depth"/>
+<node id="guid"/>
+<node id="lesson"/>
+<node id="tool"/>
+<node id="get"/>
+<node id="certifi"/>
+<node id="lead"/>
+<node id="interact"/>
+<node id="spreadsheet"/>
+<node id="dozen"/>
+<node id="topic"/>
+<node id="pertain"/>
+<node id="multi-us"/>
+<node id="content"/>
+<node id="bundl"/>
+<node id="download"/>
+<node id="empow"/>
+<node id="team"/>
+<node id="asset"/>
+<node id="brand"/>
+<node id="cm"/>
+<node id="commerc"/>
+<node id="softwar"/>
+<node id="platform"/>
+<node id="see"/>
+<node id="price"/>
+<node id="autom"/>
+<node id="free"/>
+<node id="premium"/>
+<node id="plan"/>
+<node id="crm"/>
+<node id="b2b"/>
+<node id="tri"/>
+<node id="search"/>
+<node id="'ll"/>
+<node id="give"/>
+<node id="shot"/>
+<node id="publish"/>
+<node id="may"/>
+<node id="19"/>
+<node id="2023"/>
+<node id="obscur"/>
+<node id="album"/>
+<node id="equal"/>
+<node id="guitarist"/>
+<node id="name"/>
+<node id="duck"/>
+<node id="baker"/>
+<node id="call"/>
+<node id="someth"/>
+<node id="everyon"/>
+<node id="america"/>
+<node id="``"/>
+<node id="''"/>
+<node id="n't"/>
+<node id="appli"/>
+<node id="—"/>
+<node id="concept"/>
+<node id="also"/>
+<node id="relev"/>
+<node id="nich"/>
+<edge source="document" target="27"/>
+<edge source="document" target="spreadsheet"/>
+<edge source="27" target="trust"/>
+<edge source="trust" target="busi"/>
+<edge source="busi" target="builder"/>
+<edge source="busi" target="hubspot"/>
+<edge source="busi" target="tech"/>
+<edge source="busi" target="trend"/>
+<edge source="busi" target="idea"/>
+<edge source="busi" target="profession"/>
+<edge source="busi" target="week"/>
+<edge source="busi" target="far"/>
+<edge source="busi" target="'s"/>
+<edge source="builder" target="worldwid"/>
+<edge source="builder" target="deliv"/>
+<edge source="worldwid" target="hubspot"/>
+<edge source="hubspot" target="blog"/>
+<edge source="hubspot" target="'s"/>
+<edge source="hubspot" target="expert"/>
+<edge source="hubspot" target="hubspot"/>
+<edge source="hubspot" target="podcast"/>
+<edge source="hubspot" target="cmo"/>
+<edge source="blog" target="number-on"/>
+<edge source="blog" target="topic"/>
+<edge source="number-on" target="sourc"/>
+<edge source="sourc" target="educ"/>
+<edge source="educ" target="inspir"/>
+<edge source="educ" target="show"/>
+<edge source="educ" target="grow"/>
+<edge source="inspir" target="resourc"/>
+<edge source="resourc" target="idea"/>
+<edge source="idea" target="put"/>
+<edge source="idea" target="sam"/>
+<edge source="idea" target="base"/>
+<edge source="idea" target="``"/>
+<edge source="put" target="modern"/>
+<edge source="modern" target="market"/>
+<edge source="market" target="ahead"/>
+<edge source="market" target="leader"/>
+<edge source="market" target="strategi"/>
+<edge source="market" target="redefin"/>
+<edge source="market" target="'s"/>
+<edge source="market" target="sale"/>
+<edge source="market" target="autom"/>
+<edge source="market" target="softwar"/>
+<edge source="ahead" target="curv"/>
+<edge source="ahead" target="expand"/>
+<edge source="curv" target="strategi"/>
+<edge source="curv" target="tip"/>
+<edge source="strategi" target="help"/>
+<edge source="strategi" target="experienc"/>
+<edge source="strategi" target="skill"/>
+<edge source="strategi" target="tactic"/>
+<edge source="strategi" target="insight"/>
+<edge source="help" target="elev"/>
+<edge source="help" target="build"/>
+<edge source="help" target="make"/>
+<edge source="elev" target="sale"/>
+<edge source="sale" target="effort"/>
+<edge source="sale" target="rep"/>
+<edge source="sale" target="custom"/>
+<edge source="sale" target="crm"/>
+<edge source="effort" target="everyth"/>
+<edge source="everyth" target="need"/>
+<edge source="need" target="deliv"/>
+<edge source="need" target="know"/>
+<edge source="need" target="in-depth"/>
+<edge source="deliv" target="top-notch"/>
+<edge source="deliv" target="inbox"/>
+<edge source="deliv" target="weekli"/>
+<edge source="top-notch" target="custom"/>
+<edge source="custom" target="servic"/>
+<edge source="custom" target="busi"/>
+<edge source="custom" target="asset"/>
+<edge source="servic" target="tutori"/>
+<edge source="servic" target="industri"/>
+<edge source="servic" target="cm"/>
+<edge source="servic" target="softwar"/>
+<edge source="tutori" target="how-to"/>
+<edge source="how-to" target="help"/>
+<edge source="build" target="better"/>
+<edge source="build" target="busi"/>
+<edge source="better" target="websit"/>
+<edge source="better" target="brand"/>
+<edge source="websit" target="essenti"/>
+<edge source="essenti" target="daili"/>
+<edge source="daili" target="read"/>
+<edge source="daili" target="dose"/>
+<edge source="read" target="thing"/>
+<edge source="thing" target="ai"/>
+<edge source="ai" target="busi"/>
+<edge source="'s" target="handcraft"/>
+<edge source="'s" target="club"/>
+<edge source="'s" target="happen"/>
+<edge source="'s" target="ahead"/>
+<edge source="'s" target="need"/>
+<edge source="'s" target="market"/>
+<edge source="'s" target="obscur"/>
+<edge source="'s" target="someth"/>
+<edge source="handcraft" target="email"/>
+<edge source="email" target="newslett"/>
+<edge source="newslett" target="tuck"/>
+<edge source="tuck" target="one"/>
+<edge source="one" target="place"/>
+<edge source="one" target="download"/>
+<edge source="one" target="platform"/>
+<edge source="place" target="irrever"/>
+<edge source="irrever" target="insight"/>
+<edge source="irrever" target="offbeat"/>
+<edge source="insight" target="take"/>
+<edge source="insight" target="industri"/>
+<edge source="insight" target="oper"/>
+<edge source="insight" target="hubspot"/>
+<edge source="take" target="busi"/>
+<edge source="take" target="control"/>
+<edge source="tech" target="deliv"/>
+<edge source="tech" target="learn"/>
+<edge source="tech" target="news"/>
+<edge source="inbox" target="data-back"/>
+<edge source="data-back" target="busi"/>
+<edge source="trend" target="research"/>
+<edge source="trend" target="everyth"/>
+<edge source="trend" target="opportun"/>
+<edge source="trend" target="lead"/>
+<edge source="research" target="insight"/>
+<edge source="industri" target="analys"/>
+<edge source="industri" target="multi-us"/>
+<edge source="analys" target="busi"/>
+<edge source="weekli" target="new"/>
+<edge source="new" target="insight"/>
+<edge source="new" target="busi"/>
+<edge source="oper" target="wisdom"/>
+<edge source="oper" target="commerc"/>
+<edge source="oper" target="softwar"/>
+<edge source="wisdom" target="keep"/>
+<edge source="keep" target="market"/>
+<edge source="leader" target="ahead"/>
+<edge source="tip" target="tactic"/>
+<edge source="tactic" target="strategi"/>
+<edge source="tactic" target="trend"/>
+<edge source="experienc" target="sale"/>
+<edge source="rep" target="help"/>
+<edge source="make" target="presid"/>
+<edge source="presid" target="'s"/>
+<edge source="club" target="brows"/>
+<edge source="brows" target="collect"/>
+<edge source="collect" target="educ"/>
+<edge source="show" target="video"/>
+<edge source="video" target="youtub"/>
+<edge source="video" target="format"/>
+<edge source="youtub" target="unriv"/>
+<edge source="unriv" target="storytel"/>
+<edge source="storytel" target="video"/>
+<edge source="format" target="subscrib"/>
+<edge source="subscrib" target="littl"/>
+<edge source="littl" target="revel"/>
+<edge source="revel" target="across"/>
+<edge source="across" target="busi"/>
+<edge source="learn" target="market"/>
+<edge source="learn" target="get"/>
+<edge source="skill" target="straight"/>
+<edge source="straight" target="hubspot"/>
+<edge source="expert" target="come"/>
+<edge source="expert" target="interact"/>
+<edge source="come" target="brainstorm"/>
+<edge source="brainstorm" target="busi"/>
+<edge source="sam" target="shaan"/>
+<edge source="sam" target="parr"/>
+<edge source="shaan" target="legend"/>
+<edge source="shaan" target="puri"/>
+<edge source="legend" target="game"/>
+<edge source="game" target="watch"/>
+<edge source="watch" target="two"/>
+<edge source="two" target="cerebr"/>
+<edge source="cerebr" target="cmo"/>
+<edge source="cmo" target="tackl"/>
+<edge source="cmo" target="kipp"/>
+<edge source="cmo" target="kieran"/>
+<edge source="tackl" target="strategi"/>
+<edge source="know" target="build"/>
+<edge source="podcast" target="network"/>
+<edge source="network" target="destin"/>
+<edge source="destin" target="busi"/>
+<edge source="profession" target="seek"/>
+<edge source="seek" target="best"/>
+<edge source="best" target="educ"/>
+<edge source="best" target="shot"/>
+<edge source="grow" target="busi"/>
+<edge source="week" target="host"/>
+<edge source="week" target="anoth"/>
+<edge source="host" target="sam"/>
+<edge source="parr" target="shaan"/>
+<edge source="puri" target="explor"/>
+<edge source="explor" target="new"/>
+<edge source="base" target="trend"/>
+<edge source="opportun" target="market"/>
+<edge source="redefin" target="success"/>
+<edge source="success" target="mean"/>
+<edge source="success" target="hubspot"/>
+<edge source="mean" target="find"/>
+<edge source="find" target="joy"/>
+<edge source="joy" target="eas"/>
+<edge source="eas" target="peac"/>
+<edge source="peac" target="pursuit"/>
+<edge source="pursuit" target="goal"/>
+<edge source="goal" target="daili"/>
+<edge source="dose" target="irrever"/>
+<edge source="offbeat" target="inform"/>
+<edge source="inform" target="take"/>
+<edge source="inform" target="empow"/>
+<edge source="news" target="week"/>
+<edge source="anoth" target="bite"/>
+<edge source="anoth" target="search"/>
+<edge source="bite" target="break"/>
+<edge source="break" target="latest"/>
+<edge source="latest" target="greatest"/>
+<edge source="latest" target="busi"/>
+<edge source="greatest" target="pitch"/>
+<edge source="pitch" target="shark"/>
+<edge source="shark" target="tank"/>
+<edge source="tank" target="build"/>
+<edge source="far" target="fast"/>
+<edge source="fast" target="success"/>
+<edge source="kipp" target="bodnar"/>
+<edge source="bodnar" target="zapier"/>
+<edge source="zapier" target="cmo"/>
+<edge source="kieran" target="flanagan"/>
+<edge source="flanagan" target="share"/>
+<edge source="share" target="'s"/>
+<edge source="happen" target="market"/>
+<edge source="expand" target="knowledg"/>
+<edge source="knowledg" target="take"/>
+<edge source="control" target="career"/>
+<edge source="career" target="in-depth"/>
+<edge source="in-depth" target="guid"/>
+<edge source="guid" target="lesson"/>
+<edge source="guid" target="dozen"/>
+<edge source="lesson" target="tool"/>
+<edge source="tool" target="learn"/>
+<edge source="get" target="certifi"/>
+<edge source="certifi" target="latest"/>
+<edge source="lead" target="expert"/>
+<edge source="interact" target="document"/>
+<edge source="spreadsheet" target="custom"/>
+<edge source="dozen" target="topic"/>
+<edge source="topic" target="pertain"/>
+<edge source="pertain" target="market"/>
+<edge source="multi-us" target="content"/>
+<edge source="content" target="bundl"/>
+<edge source="content" target="market"/>
+<edge source="bundl" target="one"/>
+<edge source="download" target="inform"/>
+<edge source="empow" target="team"/>
+<edge source="team" target="custom"/>
+<edge source="asset" target="better"/>
+<edge source="brand" target="strategi"/>
+<edge source="cm" target="oper"/>
+<edge source="commerc" target="softwar"/>
+<edge source="softwar" target="one"/>
+<edge source="softwar" target="free"/>
+<edge source="platform" target="see"/>
+<edge source="see" target="price"/>
+<edge source="price" target="market"/>
+<edge source="autom" target="softwar"/>
+<edge source="free" target="premium"/>
+<edge source="premium" target="plan"/>
+<edge source="plan" target="sale"/>
+<edge source="plan" target="custom"/>
+<edge source="plan" target="content"/>
+<edge source="plan" target="oper"/>
+<edge source="plan" target="b2b"/>
+<edge source="plan" target="tri"/>
+<edge source="crm" target="softwar"/>
+<edge source="b2b" target="commerc"/>
+<edge source="tri" target="anoth"/>
+<edge source="search" target="'ll"/>
+<edge source="'ll" target="give"/>
+<edge source="give" target="best"/>
+<edge source="shot" target="publish"/>
+<edge source="publish" target="may"/>
+<edge source="may" target="19"/>
+<edge source="19" target="2023"/>
+<edge source="2023" target="'s"/>
+<edge source="obscur" target="album"/>
+<edge source="obscur" target="guitarist"/>
+<edge source="album" target="equal"/>
+<edge source="equal" target="obscur"/>
+<edge source="guitarist" target="name"/>
+<edge source="name" target="duck"/>
+<edge source="duck" target="baker"/>
+<edge source="baker" target="call"/>
+<edge source="call" target="'s"/>
+<edge source="someth" target="everyon"/>
+<edge source="everyon" target="america"/>
+<edge source="everyon" target="''"/>
+<edge source="america" target="idea"/>
+<edge source="america" target="—"/>
+<edge source="``" target="'s"/>
+<edge source="''" target="n't"/>
+<edge source="n't" target="appli"/>
+<edge source="appli" target="america"/>
+<edge source="—" target="concept"/>
+<edge source="concept" target="also"/>
+<edge source="also" target="relev"/>
+<edge source="relev" target="nich"/>
+<edge source="nich" target="blog"/>
+</graph></graphml>

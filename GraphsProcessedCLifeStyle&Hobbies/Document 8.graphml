@@ -1,0 +1,499 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="document"/>
+<node id="8"/>
+<node id="zapier"/>
+<node id="’"/>
+<node id="revop"/>
+<node id="team"/>
+<node id="autom"/>
+<node id="lead"/>
+<node id="manag"/>
+<node id="use"/>
+<node id="ai"/>
+<node id="market"/>
+<node id="sale"/>
+<node id="creat"/>
+<node id="first"/>
+<node id="zap"/>
+<node id="eas"/>
+<node id="home"/>
+<node id="product"/>
+<node id="tip"/>
+<node id="copywrit"/>
+<node id="design"/>
+<node id="illustr"/>
+<node id="filmmak"/>
+<node id="competit"/>
+<node id="world"/>
+<node id="becom"/>
+<node id="wonder"/>
+<node id="'re"/>
+<node id="obsess"/>
+<node id="titl"/>
+<node id="focus"/>
+<node id="special"/>
+<node id="make"/>
+<node id="appeal"/>
+<node id="employ"/>
+<node id="show"/>
+<node id="clearli"/>
+<node id="skill"/>
+<node id="lie"/>
+<node id="'s"/>
+<node id="easier"/>
+<node id="focu"/>
+<node id="one"/>
+<node id="thing"/>
+<node id="great"/>
+<node id="yet"/>
+<node id="grow"/>
+<node id="crop"/>
+<node id="research"/>
+<node id="anecdot"/>
+<node id="evid"/>
+<node id="suggest"/>
+<node id="creativ"/>
+<node id="cross-training—spend"/>
+<node id="time"/>
+<node id="energi"/>
+<node id="unrel"/>
+<node id="task"/>
+<node id="hobbi"/>
+<node id="interests—can"/>
+<node id="actual"/>
+<node id="supercharg"/>
+<node id="abil"/>
+<node id="learn"/>
+<node id="us"/>
+<node id="even"/>
+<node id="better"/>
+<node id="work"/>
+<node id="talk"/>
+<node id="complementari"/>
+<node id="like"/>
+<node id="boxer"/>
+<node id="take"/>
+<node id="ballet"/>
+<node id="train"/>
+<node id="footwork"/>
+<node id="hope"/>
+<node id="pictur"/>
+<node id="tyson"/>
+<node id="tutu"/>
+<node id="right"/>
+<node id="complet"/>
+<node id="unconnect"/>
+<node id="empow"/>
+<node id="strengthen"/>
+<node id="perform"/>
+<node id="main"/>
+<node id="job"/>
+<node id="excus"/>
+<node id="need"/>
+<node id="branch"/>
+<node id="tri"/>
+<node id="someth"/>
+<node id="new"/>
+<node id="steve"/>
+<node id="day"/>
+<node id="start"/>
+<node id="kindergarten"/>
+<node id="seem"/>
+<node id="told"/>
+<node id="pick"/>
+<node id="nich"/>
+<node id="specialti"/>
+<node id="``"/>
+<node id="want"/>
+<node id="firefight"/>
+<node id="doctor"/>
+<node id="''"/>
+<node id="ask"/>
+<node id="increasingli"/>
+<node id="and.co"/>
+<node id="found"/>
+<node id="latest"/>
+<node id="survey"/>
+<node id="61"/>
+<node id="freelanc"/>
+<node id="two"/>
+<node id="three"/>
+<node id="talent"/>
+<node id="cognit"/>
+<node id="scientist"/>
+<node id="art"/>
+<node id="markman"/>
+<node id="call"/>
+<node id="peopl"/>
+<node id="expert"/>
+<node id="generalist"/>
+<node id="often"/>
+<node id="best"/>
+<node id="workers—they"/>
+<node id="wide"/>
+<node id="varieti"/>
+<node id="knowledge…"/>
+<node id="abl"/>
+<node id="knowledg"/>
+<node id="way"/>
+<node id="look"/>
+<node id="problem"/>
+<node id="also"/>
+<node id="good"/>
+<node id="translat"/>
+<node id="across"/>
+<node id="area"/>
+<node id="expertis"/>
+<node id="wider"/>
+<node id="rang"/>
+<node id="dot"/>
+<node id="'ll"/>
+<node id="connect—which"/>
+<node id="explain"/>
+<node id="innov"/>
+<node id="connect"/>
+<node id="feel"/>
+<node id="littl"/>
+<node id="guilti"/>
+<node id="n't"/>
+<node id="realli"/>
+<node id="saw"/>
+<node id="obviou"/>
+<node id="experi"/>
+<node id="'ve"/>
+<node id="synthes"/>
+<node id="reason"/>
+<node id="thought"/>
+<node id="outsid"/>
+<node id="interest"/>
+<node id="come"/>
+<node id="whether"/>
+<node id="spend"/>
+<node id="leisur"/>
+<node id="shoot"/>
+<node id="pool"/>
+<node id="friend"/>
+<node id="play"/>
+<node id="guitar"/>
+<node id="blue"/>
+<node id="band"/>
+<node id="knit"/>
+<node id="crochet"/>
+<node id="cat"/>
+<node id="probabl"/>
+<node id="think"/>
+<node id="effect"/>
+<node id="rest"/>
+<node id="life"/>
+<node id="accord"/>
+<node id="san"/>
+<node id="francisco"/>
+<node id="state"/>
+<node id="univers"/>
+<node id="assist"/>
+<node id="psycholog"/>
+<node id="professor"/>
+<node id="dr."/>
+<node id="kevin"/>
+<node id="eschleman"/>
+<node id="studi"/>
+<node id="correl"/>
+<node id="case"/>
+<node id="practic"/>
+<node id="give"/>
+<node id="sens"/>
+<node id="masteri"/>
+<node id="develop"/>
+<node id="process"/>
+<node id="challeng"/>
+<node id="set"/>
+<edge source="document" target="8"/>
+<edge source="8" target="zapier"/>
+<edge source="zapier" target="’"/>
+<edge source="zapier" target="market"/>
+<edge source="’" target="revop"/>
+<edge source="’" target="wonder"/>
+<edge source="’" target="pictur"/>
+<edge source="’" target="told"/>
+<edge source="’" target="special"/>
+<edge source="’" target="two"/>
+<edge source="’" target="case"/>
+<edge source="’" target="develop"/>
+<edge source="revop" target="team"/>
+<edge source="revop" target="creat"/>
+<edge source="team" target="autom"/>
+<edge source="team" target="found"/>
+<edge source="autom" target="lead"/>
+<edge source="lead" target="manag"/>
+<edge source="manag" target="use"/>
+<edge source="use" target="ai"/>
+<edge source="use" target="knowledg"/>
+<edge source="ai" target="zapier"/>
+<edge source="market" target="sale"/>
+<edge source="sale" target="revop"/>
+<edge source="creat" target="first"/>
+<edge source="first" target="zap"/>
+<edge source="zap" target="eas"/>
+<edge source="eas" target="home"/>
+<edge source="home" target="product"/>
+<edge source="product" target="product"/>
+<edge source="product" target="tip"/>
+<edge source="tip" target="product"/>
+<edge source="tip" target="copywrit"/>
+<edge source="copywrit" target="design"/>
+<edge source="design" target="illustr"/>
+<edge source="illustr" target="filmmak"/>
+<edge source="filmmak" target="competit"/>
+<edge source="competit" target="world"/>
+<edge source="world" target="becom"/>
+<edge source="becom" target="’"/>
+<edge source="wonder" target="'re"/>
+<edge source="'re" target="obsess"/>
+<edge source="'re" target="often"/>
+<edge source="obsess" target="titl"/>
+<edge source="titl" target="focus"/>
+<edge source="focus" target="special"/>
+<edge source="special" target="make"/>
+<edge source="special" target="’"/>
+<edge source="make" target="appeal"/>
+<edge source="make" target="us"/>
+<edge source="appeal" target="employ"/>
+<edge source="employ" target="show"/>
+<edge source="show" target="clearli"/>
+<edge source="clearli" target="skill"/>
+<edge source="skill" target="lie"/>
+<edge source="skill" target="like"/>
+<edge source="skill" target="new"/>
+<edge source="skill" target="set"/>
+<edge source="lie" target="'s"/>
+<edge source="'s" target="easier"/>
+<edge source="'s" target="talk"/>
+<edge source="'s" target="excus"/>
+<edge source="'s" target="increasingli"/>
+<edge source="'s" target="abl"/>
+<edge source="'s" target="hobbi"/>
+<edge source="'s" target="studi"/>
+<edge source="easier" target="focu"/>
+<edge source="focu" target="one"/>
+<edge source="one" target="thing"/>
+<edge source="thing" target="great"/>
+<edge source="thing" target="ask"/>
+<edge source="thing" target="reason"/>
+<edge source="great" target="yet"/>
+<edge source="yet" target="grow"/>
+<edge source="grow" target="crop"/>
+<edge source="grow" target="make"/>
+<edge source="crop" target="research"/>
+<edge source="research" target="anecdot"/>
+<edge source="anecdot" target="evid"/>
+<edge source="evid" target="suggest"/>
+<edge source="suggest" target="creativ"/>
+<edge source="suggest" target="new"/>
+<edge source="creativ" target="cross-training—spend"/>
+<edge source="creativ" target="job"/>
+<edge source="creativ" target="innov"/>
+<edge source="creativ" target="connect"/>
+<edge source="creativ" target="peopl"/>
+<edge source="cross-training—spend" target="time"/>
+<edge source="time" target="energi"/>
+<edge source="time" target="shoot"/>
+<edge source="energi" target="unrel"/>
+<edge source="unrel" target="task"/>
+<edge source="task" target="hobbi"/>
+<edge source="task" target="empow"/>
+<edge source="hobbi" target="interests—can"/>
+<edge source="hobbi" target="outsid"/>
+<edge source="hobbi" target="effect"/>
+<edge source="hobbi" target="job"/>
+<edge source="hobbi" target="``"/>
+<edge source="interests—can" target="actual"/>
+<edge source="actual" target="supercharg"/>
+<edge source="supercharg" target="abil"/>
+<edge source="abil" target="learn"/>
+<edge source="abil" target="perform"/>
+<edge source="learn" target="grow"/>
+<edge source="learn" target="someth"/>
+<edge source="us" target="even"/>
+<edge source="even" target="better"/>
+<edge source="even" target="complet"/>
+<edge source="better" target="work"/>
+<edge source="work" target="'s"/>
+<edge source="work" target="footwork"/>
+<edge source="work" target="and.co"/>
+<edge source="talk" target="complementari"/>
+<edge source="complementari" target="skill"/>
+<edge source="like" target="boxer"/>
+<edge source="like" target="even"/>
+<edge source="boxer" target="take"/>
+<edge source="take" target="ballet"/>
+<edge source="ballet" target="train"/>
+<edge source="train" target="work"/>
+<edge source="footwork" target="hope"/>
+<edge source="hope" target="’"/>
+<edge source="pictur" target="tyson"/>
+<edge source="tyson" target="tutu"/>
+<edge source="tutu" target="right"/>
+<edge source="right" target="like"/>
+<edge source="complet" target="unconnect"/>
+<edge source="unconnect" target="task"/>
+<edge source="empow" target="strengthen"/>
+<edge source="strengthen" target="abil"/>
+<edge source="perform" target="main"/>
+<edge source="perform" target="’"/>
+<edge source="main" target="creativ"/>
+<edge source="job" target="'s"/>
+<edge source="job" target="day"/>
+<edge source="job" target="explain"/>
+<edge source="job" target="perform"/>
+<edge source="excus" target="need"/>
+<edge source="need" target="branch"/>
+<edge source="branch" target="tri"/>
+<edge source="tri" target="someth"/>
+<edge source="someth" target="new"/>
+<edge source="someth" target="feel"/>
+<edge source="someth" target="seem"/>
+<edge source="new" target="steve"/>
+<edge source="new" target="way"/>
+<edge source="new" target="thing"/>
+<edge source="new" target="skill"/>
+<edge source="new" target="thought"/>
+<edge source="new" target="develop"/>
+<edge source="steve" target="job"/>
+<edge source="day" target="start"/>
+<edge source="start" target="kindergarten"/>
+<edge source="kindergarten" target="seem"/>
+<edge source="seem" target="’"/>
+<edge source="seem" target="obviou"/>
+<edge source="told" target="pick"/>
+<edge source="pick" target="nich"/>
+<edge source="nich" target="specialti"/>
+<edge source="specialti" target="``"/>
+<edge source="``" target="want"/>
+<edge source="``" target="expert"/>
+<edge source="``" target="wide"/>
+<edge source="``" target="creativ"/>
+<edge source="``" target="give"/>
+<edge source="``" target="’"/>
+<edge source="want" target="firefight"/>
+<edge source="firefight" target="doctor"/>
+<edge source="doctor" target="''"/>
+<edge source="''" target="ask"/>
+<edge source="''" target="'re"/>
+<edge source="''" target="wider"/>
+<edge source="''" target="'s"/>
+<edge source="''" target="eschleman"/>
+<edge source="ask" target="'s"/>
+<edge source="ask" target="creativ"/>
+<edge source="increasingli" target="work"/>
+<edge source="and.co" target="team"/>
+<edge source="found" target="latest"/>
+<edge source="latest" target="survey"/>
+<edge source="survey" target="61"/>
+<edge source="61" target="freelanc"/>
+<edge source="freelanc" target="’"/>
+<edge source="two" target="three"/>
+<edge source="three" target="talent"/>
+<edge source="talent" target="cognit"/>
+<edge source="cognit" target="scientist"/>
+<edge source="scientist" target="art"/>
+<edge source="art" target="markman"/>
+<edge source="markman" target="call"/>
+<edge source="call" target="peopl"/>
+<edge source="peopl" target="``"/>
+<edge source="peopl" target="someth"/>
+<edge source="peopl" target="''"/>
+<edge source="expert" target="generalist"/>
+<edge source="generalist" target="''"/>
+<edge source="often" target="best"/>
+<edge source="best" target="workers—they"/>
+<edge source="workers—they" target="``"/>
+<edge source="wide" target="varieti"/>
+<edge source="varieti" target="knowledge…"/>
+<edge source="knowledge…" target="abl"/>
+<edge source="abl" target="use"/>
+<edge source="abl" target="connect"/>
+<edge source="abl" target="'ve"/>
+<edge source="knowledg" target="suggest"/>
+<edge source="knowledg" target="dot"/>
+<edge source="way" target="look"/>
+<edge source="look" target="problem"/>
+<edge source="problem" target="also"/>
+<edge source="also" target="good"/>
+<edge source="good" target="translat"/>
+<edge source="translat" target="across"/>
+<edge source="across" target="area"/>
+<edge source="area" target="expertis"/>
+<edge source="expertis" target="''"/>
+<edge source="wider" target="rang"/>
+<edge source="rang" target="knowledg"/>
+<edge source="dot" target="'ll"/>
+<edge source="'ll" target="connect—which"/>
+<edge source="connect—which" target="steve"/>
+<edge source="explain" target="creativ"/>
+<edge source="explain" target="``"/>
+<edge source="innov" target="``"/>
+<edge source="connect" target="thing"/>
+<edge source="connect" target="experi"/>
+<edge source="feel" target="littl"/>
+<edge source="littl" target="guilti"/>
+<edge source="guilti" target="n't"/>
+<edge source="n't" target="realli"/>
+<edge source="realli" target="saw"/>
+<edge source="realli" target="challeng"/>
+<edge source="saw" target="someth"/>
+<edge source="obviou" target="'s"/>
+<edge source="experi" target="'ve"/>
+<edge source="experi" target="thought"/>
+<edge source="experi" target="peopl"/>
+<edge source="'ve" target="synthes"/>
+<edge source="'ve" target="experi"/>
+<edge source="synthes" target="new"/>
+<edge source="reason" target="abl"/>
+<edge source="thought" target="experi"/>
+<edge source="thought" target="process"/>
+<edge source="outsid" target="interest"/>
+<edge source="interest" target="come"/>
+<edge source="come" target="whether"/>
+<edge source="whether" target="spend"/>
+<edge source="spend" target="leisur"/>
+<edge source="leisur" target="time"/>
+<edge source="shoot" target="pool"/>
+<edge source="pool" target="friend"/>
+<edge source="friend" target="play"/>
+<edge source="play" target="guitar"/>
+<edge source="guitar" target="blue"/>
+<edge source="blue" target="band"/>
+<edge source="band" target="knit"/>
+<edge source="knit" target="crochet"/>
+<edge source="crochet" target="cat"/>
+<edge source="cat" target="probabl"/>
+<edge source="probabl" target="think"/>
+<edge source="think" target="hobbi"/>
+<edge source="effect" target="rest"/>
+<edge source="rest" target="life"/>
+<edge source="life" target="accord"/>
+<edge source="accord" target="san"/>
+<edge source="san" target="francisco"/>
+<edge source="francisco" target="state"/>
+<edge source="state" target="univers"/>
+<edge source="univers" target="assist"/>
+<edge source="assist" target="psycholog"/>
+<edge source="psycholog" target="professor"/>
+<edge source="professor" target="dr."/>
+<edge source="dr." target="kevin"/>
+<edge source="kevin" target="eschleman"/>
+<edge source="eschleman" target="'s"/>
+<edge source="eschleman" target="explain"/>
+<edge source="studi" target="correl"/>
+<edge source="correl" target="hobbi"/>
+<edge source="case" target="practic"/>
+<edge source="practic" target="hobbi"/>
+<edge source="give" target="sens"/>
+<edge source="sens" target="masteri"/>
+<edge source="masteri" target="''"/>
+<edge source="develop" target="new"/>
+<edge source="develop" target="skill"/>
+<edge source="process" target="realli"/>
+<edge source="challeng" target="learn"/>
+<edge source="set" target="''"/>
+</graph></graphml>

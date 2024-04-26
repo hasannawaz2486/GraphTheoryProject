@@ -1,0 +1,435 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="document"/>
+<node id="25"/>
+<node id="wpbeginn"/>
+<node id="wordpress"/>
+<node id="tutori"/>
+<node id="beginn"/>
+<node id="categori"/>
+<node id="popular"/>
+<node id="post"/>
+<node id="starter"/>
+<node id="guid"/>
+<node id="help"/>
+<node id="resourc"/>
+<node id="plugin"/>
+<node id="train"/>
+<node id="premium"/>
+<node id="cours"/>
+<node id="free"/>
+<node id="product"/>
+<node id="tool"/>
+<node id="»"/>
+<node id="blog"/>
+<node id="reveal"/>
+<node id="type"/>
+<node id="last"/>
+<node id="updat"/>
+<node id="februari"/>
+<node id="29th"/>
+<node id="2024"/>
+<node id="editori"/>
+<node id="staff"/>
+<node id="review"/>
+<node id="sy"/>
+<node id="balkhi"/>
+<node id="start"/>
+<node id="common"/>
+<node id="question"/>
+<node id="might"/>
+<node id="ask"/>
+<node id="kind"/>
+<node id="mani"/>
+<node id="differ"/>
+<node id="cover"/>
+<node id="wide"/>
+<node id="rang"/>
+<node id="topic"/>
+<node id="interest"/>
+<node id="audienc"/>
+<node id="success"/>
+<node id="need"/>
+<node id="plan"/>
+<node id="ahead"/>
+<node id="choos"/>
+<node id="nich"/>
+<node id="work"/>
+<node id="articl"/>
+<node id="share"/>
+<node id="right"/>
+<node id="away"/>
+<node id="decid"/>
+<node id="first"/>
+<node id="know"/>
+<node id="passion"/>
+<node id="say"/>
+<node id="everi"/>
+<node id="search"/>
+<node id="content"/>
+<node id="relat"/>
+<node id="write"/>
+<node id="continu"/>
+<node id="come"/>
+<node id="great"/>
+<node id="idea"/>
+<node id="grow"/>
+<node id="may"/>
+<node id="also"/>
+<node id="want"/>
+<node id="think"/>
+<node id="monet"/>
+<node id="confid"/>
+<node id="easili"/>
+<node id="make"/>
+<node id="money"/>
+<node id="plu"/>
+<node id="’"/>
+<node id="select"/>
+<node id="web"/>
+<node id="host"/>
+<node id="servic"/>
+<node id="pick"/>
+<node id="domain"/>
+<node id="name"/>
+<node id="theme"/>
+<node id="optim"/>
+<node id="seo"/>
+<node id="improv"/>
+<node id="perform"/>
+<node id="site"/>
+<node id="social"/>
+<node id="media"/>
+<node id="task"/>
+<node id="directli"/>
+<node id="equal"/>
+<node id="import"/>
+<node id="let"/>
+<node id="take"/>
+<node id="look"/>
+<node id="internet"/>
+<node id="inspir"/>
+<node id="fashion"/>
+<node id="big"/>
+<node id="industri"/>
+<node id="huge"/>
+<node id="global"/>
+<node id="blogger"/>
+<node id="get"/>
+<node id="invit"/>
+<node id="major"/>
+<node id="event"/>
+<node id="receiv"/>
+<node id="special"/>
+<node id="perk"/>
+<node id="merchandis"/>
+<node id="even"/>
+<node id="busi"/>
+<node id="deal"/>
+<node id="top"/>
+<node id="brand"/>
+<node id="good"/>
+<node id="creativ"/>
+<node id="peopl"/>
+<node id="keen"/>
+<node id="eye"/>
+<node id="style"/>
+<node id="sign"/>
+<node id="affili"/>
+<node id="program"/>
+<node id="onlin"/>
+<node id="follow"/>
+<node id="best"/>
+<node id="part"/>
+<node id="instanc"/>
+<node id="astra"/>
+<node id="offer"/>
+<node id="lot"/>
+<node id="templat"/>
+<node id="includ"/>
+<node id="lifestyl"/>
+<node id="perfect"/>
+<node id="creat"/>
+<node id="websit"/>
+<node id="food"/>
+<node id="attract"/>
+<node id="reader"/>
+<node id="recip"/>
+<node id="ingredi"/>
+<node id="healthi"/>
+<node id="eat"/>
+<node id="fine"/>
+<node id="dine"/>
+<node id="food-rel"/>
+<node id="stori"/>
+<node id="someth"/>
+<node id="simpl"/>
+<node id="local"/>
+<node id="restaur"/>
+<node id="howev"/>
+<node id="target"/>
+<node id="well"/>
+<edge source="document" target="25"/>
+<edge source="25" target="wpbeginn"/>
+<edge source="wpbeginn" target="wordpress"/>
+<edge source="wpbeginn" target="»"/>
+<edge source="wordpress" target="tutori"/>
+<edge source="wordpress" target="plugin"/>
+<edge source="wordpress" target="cours"/>
+<edge source="wordpress" target="blog"/>
+<edge source="wordpress" target="theme"/>
+<edge source="tutori" target="beginn"/>
+<edge source="beginn" target="categori"/>
+<edge source="beginn" target="guid"/>
+<edge source="categori" target="popular"/>
+<edge source="popular" target="post"/>
+<edge source="popular" target="type"/>
+<edge source="popular" target="blog"/>
+<edge source="post" target="starter"/>
+<edge source="starter" target="guid"/>
+<edge source="guid" target="help"/>
+<edge source="guid" target="»"/>
+<edge source="guid" target="best"/>
+<edge source="help" target="resourc"/>
+<edge source="help" target="continu"/>
+<edge source="help" target="easili"/>
+<edge source="help" target="inspir"/>
+<edge source="resourc" target="wordpress"/>
+<edge source="plugin" target="train"/>
+<edge source="train" target="premium"/>
+<edge source="premium" target="wordpress"/>
+<edge source="cours" target="free"/>
+<edge source="free" target="product"/>
+<edge source="free" target="tool"/>
+<edge source="product" target="free"/>
+<edge source="product" target="review"/>
+<edge source="tool" target="wpbeginn"/>
+<edge source="»" target="blog"/>
+<edge source="»" target="beginn"/>
+<edge source="»" target="reveal"/>
+<edge source="blog" target="»"/>
+<edge source="blog" target="last"/>
+<edge source="blog" target="common"/>
+<edge source="blog" target="kind"/>
+<edge source="blog" target="start"/>
+<edge source="blog" target="cover"/>
+<edge source="blog" target="need"/>
+<edge source="blog" target="first"/>
+<edge source="blog" target="grow"/>
+<edge source="blog" target="topic"/>
+<edge source="blog" target="plu"/>
+<edge source="blog" target="let"/>
+<edge source="blog" target="internet"/>
+<edge source="blog" target="popular"/>
+<edge source="blog" target="good"/>
+<edge source="blog" target="mani"/>
+<edge source="blog" target="instanc"/>
+<edge source="blog" target="templat"/>
+<edge source="blog" target="websit"/>
+<edge source="blog" target="attract"/>
+<edge source="reveal" target="popular"/>
+<edge source="type" target="blog"/>
+<edge source="type" target="wordpress"/>
+<edge source="last" target="updat"/>
+<edge source="updat" target="februari"/>
+<edge source="februari" target="29th"/>
+<edge source="29th" target="2024"/>
+<edge source="2024" target="editori"/>
+<edge source="editori" target="staff"/>
+<edge source="staff" target="review"/>
+<edge source="review" target="sy"/>
+<edge source="review" target="food-rel"/>
+<edge source="review" target="howev"/>
+<edge source="sy" target="balkhi"/>
+<edge source="balkhi" target="start"/>
+<edge source="start" target="blog"/>
+<edge source="start" target="mani"/>
+<edge source="start" target="right"/>
+<edge source="start" target="fashion"/>
+<edge source="start" target="make"/>
+<edge source="start" target="astra"/>
+<edge source="start" target="someth"/>
+<edge source="start" target="cover"/>
+<edge source="common" target="question"/>
+<edge source="question" target="might"/>
+<edge source="might" target="ask"/>
+<edge source="ask" target="popular"/>
+<edge source="kind" target="blog"/>
+<edge source="mani" target="differ"/>
+<edge source="mani" target="wordpress"/>
+<edge source="mani" target="food"/>
+<edge source="differ" target="type"/>
+<edge source="differ" target="blog"/>
+<edge source="cover" target="wide"/>
+<edge source="cover" target="food-rel"/>
+<edge source="wide" target="rang"/>
+<edge source="rang" target="topic"/>
+<edge source="topic" target="interest"/>
+<edge source="topic" target="help"/>
+<edge source="topic" target="well"/>
+<edge source="interest" target="audienc"/>
+<edge source="interest" target="write"/>
+<edge source="interest" target="recip"/>
+<edge source="interest" target="target"/>
+<edge source="audienc" target="success"/>
+<edge source="audienc" target="search"/>
+<edge source="audienc" target="fashion"/>
+<edge source="audienc" target="start"/>
+<edge source="success" target="blog"/>
+<edge source="need" target="plan"/>
+<edge source="need" target="know"/>
+<edge source="need" target="select"/>
+<edge source="plan" target="ahead"/>
+<edge source="plan" target="content"/>
+<edge source="ahead" target="choos"/>
+<edge source="choos" target="nich"/>
+<edge source="choos" target="right"/>
+<edge source="choos" target="wordpress"/>
+<edge source="nich" target="work"/>
+<edge source="nich" target="blog"/>
+<edge source="nich" target="audienc"/>
+<edge source="nich" target="confid"/>
+<edge source="work" target="articl"/>
+<edge source="articl" target="share"/>
+<edge source="articl" target="social"/>
+<edge source="share" target="popular"/>
+<edge source="share" target="articl"/>
+<edge source="right" target="away"/>
+<edge source="right" target="nich"/>
+<edge source="away" target="decid"/>
+<edge source="decid" target="nich"/>
+<edge source="first" target="need"/>
+<edge source="know" target="passion"/>
+<edge source="passion" target="say"/>
+<edge source="passion" target="help"/>
+<edge source="say" target="everi"/>
+<edge source="everi" target="nich"/>
+<edge source="search" target="content"/>
+<edge source="content" target="relat"/>
+<edge source="content" target="idea"/>
+<edge source="content" target="also"/>
+<edge source="relat" target="interest"/>
+<edge source="relat" target="write"/>
+<edge source="write" target="passion"/>
+<edge source="write" target="differ"/>
+<edge source="write" target="equal"/>
+<edge source="continu" target="come"/>
+<edge source="come" target="great"/>
+<edge source="great" target="content"/>
+<edge source="idea" target="blog"/>
+<edge source="grow" target="may"/>
+<edge source="grow" target="interest"/>
+<edge source="may" target="also"/>
+<edge source="also" target="want"/>
+<edge source="also" target="need"/>
+<edge source="also" target="monet"/>
+<edge source="want" target="think"/>
+<edge source="think" target="monet"/>
+<edge source="monet" target="choos"/>
+<edge source="monet" target="site"/>
+<edge source="confid" target="write"/>
+<edge source="easili" target="make"/>
+<edge source="make" target="money"/>
+<edge source="money" target="blog"/>
+<edge source="money" target="onlin"/>
+<edge source="plu" target="’"/>
+<edge source="’" target="need"/>
+<edge source="’" target="take"/>
+<edge source="’" target="big"/>
+<edge source="select" target="web"/>
+<edge source="web" target="host"/>
+<edge source="host" target="servic"/>
+<edge source="servic" target="pick"/>
+<edge source="pick" target="domain"/>
+<edge source="domain" target="name"/>
+<edge source="name" target="choos"/>
+<edge source="theme" target="optim"/>
+<edge source="theme" target="fashion"/>
+<edge source="optim" target="seo"/>
+<edge source="seo" target="improv"/>
+<edge source="improv" target="perform"/>
+<edge source="perform" target="site"/>
+<edge source="site" target="share"/>
+<edge source="site" target="sign"/>
+<edge source="social" target="media"/>
+<edge source="media" target="task"/>
+<edge source="task" target="directli"/>
+<edge source="directli" target="relat"/>
+<edge source="equal" target="import"/>
+<edge source="import" target="success"/>
+<edge source="let" target="’"/>
+<edge source="take" target="look"/>
+<edge source="look" target="popular"/>
+<edge source="internet" target="help"/>
+<edge source="internet" target="’"/>
+<edge source="inspir" target="fashion"/>
+<edge source="fashion" target="blog"/>
+<edge source="fashion" target="blogger"/>
+<edge source="fashion" target="brand"/>
+<edge source="fashion" target="also"/>
+<edge source="fashion" target="lifestyl"/>
+<edge source="big" target="industri"/>
+<edge source="industri" target="huge"/>
+<edge source="huge" target="global"/>
+<edge source="global" target="audienc"/>
+<edge source="blogger" target="get"/>
+<edge source="blogger" target="start"/>
+<edge source="get" target="invit"/>
+<edge source="get" target="start"/>
+<edge source="invit" target="major"/>
+<edge source="major" target="event"/>
+<edge source="event" target="receiv"/>
+<edge source="receiv" target="special"/>
+<edge source="special" target="perk"/>
+<edge source="perk" target="merchandis"/>
+<edge source="merchandis" target="even"/>
+<edge source="even" target="busi"/>
+<edge source="busi" target="deal"/>
+<edge source="deal" target="top"/>
+<edge source="top" target="fashion"/>
+<edge source="brand" target="type"/>
+<edge source="good" target="creativ"/>
+<edge source="creativ" target="peopl"/>
+<edge source="peopl" target="keen"/>
+<edge source="keen" target="eye"/>
+<edge source="eye" target="style"/>
+<edge source="style" target="fashion"/>
+<edge source="sign" target="affili"/>
+<edge source="affili" target="program"/>
+<edge source="program" target="make"/>
+<edge source="onlin" target="start"/>
+<edge source="onlin" target="follow"/>
+<edge source="follow" target="guid"/>
+<edge source="best" target="part"/>
+<edge source="part" target="fashion"/>
+<edge source="instanc" target="get"/>
+<edge source="astra" target="offer"/>
+<edge source="offer" target="lot"/>
+<edge source="lot" target="templat"/>
+<edge source="lot" target="reader"/>
+<edge source="templat" target="includ"/>
+<edge source="templat" target="perfect"/>
+<edge source="includ" target="fashion"/>
+<edge source="lifestyl" target="blog"/>
+<edge source="perfect" target="creat"/>
+<edge source="creat" target="fashion"/>
+<edge source="websit" target="food"/>
+<edge source="food" target="blog"/>
+<edge source="food" target="blogger"/>
+<edge source="attract" target="lot"/>
+<edge source="reader" target="interest"/>
+<edge source="recip" target="ingredi"/>
+<edge source="ingredi" target="healthi"/>
+<edge source="healthi" target="eat"/>
+<edge source="eat" target="fine"/>
+<edge source="fine" target="dine"/>
+<edge source="dine" target="product"/>
+<edge source="food-rel" target="stori"/>
+<edge source="food-rel" target="blog"/>
+<edge source="stori" target="mani"/>
+<edge source="someth" target="simpl"/>
+<edge source="simpl" target="local"/>
+<edge source="local" target="restaur"/>
+<edge source="restaur" target="review"/>
+<edge source="howev" target="blog"/>
+<edge source="target" target="audienc"/>
+</graph></graphml>
